@@ -1,0 +1,67 @@
+\chapter{Introduction}
+This Chapter will deal with the introduction and objective behind
+the project.
+Students can add as many chapters as per the depth of their contents
+and they can cite the references as shown.
+
+\section{About the Company}
+\subsection{Introduction of the company}
+\subsection{Quality Policy}
+\subsection{Communication}
+\subsection{Resources}
+
+\section{The System}
+\subsection{Definition of System}
+\subsection{Purpose and Objective}
+\subsection{About Existing system}
+\subsection{Proposed System}
+
+\section{Project Profile}
+\subsection{Project Title}
+\subsection{Scope of Project}
+\subsection{Project Team}
+\subsection{Hardware/Software environment in company}
+
+\chapter{System Analysis}
+\section{Feasibility Study}
+\subsection{Operational feasibility}
+\subsection{Technical feasibility}
+\subsection{Financial and Economical feasibility}
+\subsection{Handling Infeasible Projects}
+
+
+\section{Requirement Analysis}
+\subsection{Facts finding techniques}
+\subsubsection{Interview}
+\subsubsection{Questionnaire}
+\subsubsection{Record Review}
+\subsubsection{Observation}
+
+\subsection{Context Diagram}
+\subsection{Data Flow Diagrams}
+\subsubsection{First Level DFD}
+\subsubsection{Second Level DFD}
+
+
+\chapter{System Design}
+\section{System Flow}
+\section{Entity-Relationship diagram}
+\section{Data dictionary}
+
+\chapter{User Manuals}
+\section{Menu Screens along with Description}
+\section{Forms along with Description}
+\section{Reports}
+
+\chapter{Testing}
+
+\chapter{Future Enhancement}
+
+\chapter{Appendix}
+\section{Tools used}
+
+\chapter{Bibliography}
+
+
+You may cite reference to any book\cite{HK} or any conference
+\cite{VEC} or any other journal or publication.

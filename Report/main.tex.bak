@@ -1,0 +1,85 @@
+\documentclass[12pt,a4paper]{report}
+
+\usepackage[pdftex]{graphicx}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png,.jpg}
+\usepackage{amsthm,amssymb} % for mathematical formulas
+\usepackage{rotating} %used to have landskape figures
+\usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{epsfig}
+\usepackage{algorithms}
+\usepackage{makeidx}
+
+
+
+   % to have links to figures and citations in PDF version.
+\usepackage{hyperref}
+
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.5}
+%\renewcommand{\bibname}{References}
+
+\pagestyle{headings}  % to get running heads
+\makeindex
+
+
+%------------------------- Document settings ------------------------
+\topmargin   0mm
+\hoffset     0mm
+\voffset     0mm
+\textwidth   150mm
+\textheight  220mm
+%------------------------- Definitions ------------------------------
+
+\renewcommand{\theenumi}{\alph{enumi}} % to get alphabets in enumerated lists
+\renewcommand{\theenumii}{\arabic{enumii}} % to get numbers in level-2 enumerated lists
+\renewcommand{\thetable}{\Roman{table}} % to get table numbers in capital roman
+\renewcommand{\chaptername}{Chapter}
+\renewcommand{\textwidth}{6in}
+\newcommand{\pic}[2]{\setlength{\epsfysize}{#1} \epsffile{#2}}
+%------------------------- document ---------------------------------
+
+\begin{document}
+% --------- Title and abstract etc the front matter -----------
+\pagenumbering{roman}
+\input{coverpages}
+\begin{singlespace}
+
+\newpage
+\tableofcontents
+\newpage
+\addcontentsline{toc}{chapter}{List of Tables}
+\listoftables
+%\newpage
+\addcontentsline{toc}{chapter}{List of Figures}
+\listoffigures
+\end{singlespace}
+
+\pagenumbering{arabic}
+
+% ----------------- thesis chapters -----------
+
+\flushbottom
+\include{Introduction}
+\include{Usecase}
+\include{classdiagrams}
+\include{usermanual}
+\include{ch4}
+\flushbottom \flushbottom
+
+\section*{Note for References}
+You may cite reference to any book\cite{HK} or any conference
+\cite{VEC} or any other journal or publication.
+%------------------------------------------------------------------------
+
+
+
+% ------------ Bibliography---------------
+\begin{singlespace}
+\bibliographystyle{plain}
+\newpage
+\addcontentsline{toc}{chapter}{\bibname}
+\bibliography{thesis}
+\end{singlespace}
+
+\end{document}

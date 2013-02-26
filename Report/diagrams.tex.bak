@@ -1,0 +1,203 @@
+
+\chapter{System Design}
+\section{Use Case Diagram}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics {Navigation.jpg}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics {addremove.jpg}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics {Measure.jpg}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics {Selection.jpg}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics {Print.jpg}
+\end{center}
+\end{figure}
+
+\section{Class Diagram}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics {Class.jpg}
+\end{center}
+\end{figure}
+
+\section{CRC Index Card}
+\begin{tabular}{|l|l|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \multicolumn{2}{|l|}{ Class Name : Main} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Type : interaction, connection} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Characteristics : secure, sequential, permanent} \\
+  \hline
+  Responsibilities & Collaborators  \\
+  \hline
+  Create main window & Selection \\
+  Open layers & Find \\
+   & Save as Image\\
+   & Crop \\
+   & Add Layer \\
+   & Query \\
+   & Distance \\
+  \hline
+\end{tabular}
+
+\begin{tabular}{|l|l|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \multicolumn{2}{|l|}{ Class Name :   Selection} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Type : interaction, connection} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Characteristics : secure, sequential, temporary} \\
+  \hline
+  Responsibilities & Collaborators  \\
+  \hline
+  Make selection of raster file & Find \\
+  Make selection of vector fil & \\
+   & Save as Image\\
+   & Crop \\
+   & Add Layer \\
+   & Query \\
+   & Distance \\
+  \hline
+\end{tabular}
+
+\begin{tabular}{|l|l|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \multicolumn{2}{|l|}{ Class Name : Main} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Type : interaction, connection} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Characteristics : secure, sequential, permanent} \\
+  \hline
+  Responsibilities & Collaborators  \\
+  \hline
+  Create main window & Selection \\
+  Open layers & Find \\
+   & Save as Image\\
+   & Crop \\
+   & Add Layer \\
+   & Query \\
+   & Distance \\
+  \hline
+\end{tabular}
+
+\begin{tabular}{|l|l|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \multicolumn{2}{|l|}{ Class Name : Main} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Type : interaction, connection} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Characteristics : secure, sequential, permanent} \\
+  \hline
+  Responsibilities & Collaborators  \\
+  \hline
+  Create main window & Selection \\
+  Open layers & Find \\
+   & Save as Image\\
+   & Crop \\
+   & Add Layer \\
+   & Query \\
+   & Distance \\
+  \hline
+\end{tabular}
+
+\begin{tabular}{|l|l|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \multicolumn{2}{|l|}{ Class Name : Main} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Type : interaction, connection} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Characteristics : secure, sequential, permanent} \\
+  \hline
+  Responsibilities & Collaborators  \\
+  \hline
+  Create main window & Selection \\
+  Open layers & Find \\
+   & Save as Image\\
+   & Crop \\
+   & Add Layer \\
+   & Query \\
+   & Distance \\
+  \hline
+\end{tabular}
+
+\begin{tabular}{|l|l|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \multicolumn{2}{|l|}{ Class Name : Main} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Type : interaction, connection} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Characteristics : secure, sequential, permanent} \\
+  \hline
+  Responsibilities & Collaborators  \\
+  \hline
+  Create main window & Selection \\
+  Open layers & Find \\
+   & Save as Image\\
+   & Crop \\
+   & Add Layer \\
+   & Query \\
+   & Distance \\
+  \hline
+\end{tabular}
+
+\begin{tabular}{|l|l|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \multicolumn{2}{|l|}{ Class Name : Main} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Type : interaction, connection} \\
+  \hline
+  \multicolumn{2}{|l|}{ Class Characteristics : secure, sequential, permanent} \\
+  \hline
+  Responsibilities & Collaborators  \\
+  \hline
+  Create main window & Selection \\
+  Open layers & Find \\
+   & Save as Image\\
+   & Crop \\
+   & Add Layer \\
+   & Query \\
+   & Distance \\
+  \hline
+\end{tabular}
+
+
+
+\chapter{User Manuals}
+\section{Menu Screens along with Description}
+\section{Forms along with Description}
+\section{Reports}
+
+\chapter{Testing}
+
+\chapter{Future Enhancement}
+
+\chapter{Appendix}
+\section{Tools used}

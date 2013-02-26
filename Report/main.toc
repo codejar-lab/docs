@@ -1,0 +1,69 @@
+\contentsline {chapter}{BISAG Certificate}{iii}{Doc-Start}
+\contentsline {chapter}{Nirma Certificate}{iv}{Doc-Start}
+\contentsline {chapter}{About the company}{v}{Doc-Start}
+\contentsline {chapter}{Acknowledgements}{xiv}{figure.0.4}
+\contentsline {chapter}{Abstract}{xv}{figure.0.4}
+\contentsline {chapter}{List of Tables}{xviii}{chapter*.1}
+\contentsline {chapter}{List of Figures}{xviii}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}The System}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Definition of System}{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Project Developement Model}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Concerned Audiences And Users }{4}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Purpose and Objective}{4}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}About Existing system}{4}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}Proposed System}{5}{subsection.1.1.6}
+\contentsline {subsubsection}{Functional Requirements}{5}{section*.4}
+\contentsline {subsubsection}{Non-Functional Requirements}{7}{section*.5}
+\contentsline {section}{\numberline {1.2}Project Profile}{9}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Project Title}{9}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Scope of Project}{9}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Project Team}{9}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Hardware/Software environment in company}{9}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Project plan}{10}{subsection.1.2.5}
+\contentsline {chapter}{\numberline {2}System Analysis}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}Feasibility Study}{12}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Technical feasibility}{13}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Economic feasibility}{14}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Operational feasibility}{14}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Social feasibility}{15}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Legal feasibility}{15}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Time feasibility}{15}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}Requirement Analysis}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Facts finding techniques}{16}{subsection.2.2.1}
+\contentsline {subsubsection}{Interview}{16}{section*.6}
+\contentsline {subsubsection}{Questionnaire}{17}{section*.7}
+\contentsline {subsubsection}{Record Review}{18}{section*.8}
+\contentsline {subsubsection}{Observation}{18}{section*.9}
+\contentsline {subsection}{\numberline {2.2.2}Data Flow Diagrams}{19}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {3}Use Case Diagram}{20}{chapter.3}
+\contentsline {chapter}{\numberline {4}Class Diagram and CRC card}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}Class Diagram}{25}{section.4.1}
+\contentsline {section}{\numberline {4.2}CRC Index Card}{26}{section.4.2}
+\contentsline {chapter}{\numberline {5}User Manuals}{29}{chapter.5}
+\contentsline {chapter}{\numberline {6}Testing}{49}{chapter.6}
+\contentsline {chapter}{\numberline {7}Future Enhancement}{51}{chapter.7}
+\contentsline {chapter}{\numberline {8}Appendix}{53}{chapter.8}
+\contentsline {section}{\numberline {8.1}Technology Used}{53}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}GeoTools}{53}{subsection.8.1.1}
+\contentsline {subsubsection}{Introduction}{53}{section*.10}
+\contentsline {subsubsection}{Open Source}{54}{section*.11}
+\contentsline {subsubsection}{Open Development}{54}{section*.12}
+\contentsline {subsubsection}{Code Distribution}{54}{section*.13}
+\contentsline {section}{\numberline {8.2}Tools Used}{56}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Netbeans 7.0.1}{56}{subsection.8.2.1}
+\contentsline {subsubsection}{JDK 7}{56}{section*.14}
+\contentsline {subsubsection}{WebLogic Server}{56}{section*.15}
+\contentsline {subsubsection}{Oracle Database}{56}{section*.16}
+\contentsline {subsubsection}{GlassFish}{57}{section*.17}
+\contentsline {subsubsection}{Java}{57}{section*.18}
+\contentsline {subsubsection}{Java EE}{57}{section*.19}
+\contentsline {subsubsection}{Web Languages}{57}{section*.20}
+\contentsline {subsubsection}{PHP}{58}{section*.21}
+\contentsline {subsubsection}{C/C++}{58}{section*.22}
+\contentsline {subsubsection}{NetBeans Platform}{58}{section*.23}
+\contentsline {subsubsection}{General}{58}{section*.24}
+\contentsline {chapter}{\numberline {9}Summary and Conclusion}{59}{chapter.9}
+\contentsline {section}{\numberline {9.1}Summary}{59}{section.9.1}
+\contentsline {section}{\numberline {9.2}Conclusion}{59}{section.9.2}
+\contentsline {chapter}{Bibliography}{61}{section.9.2}

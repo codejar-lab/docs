@@ -1,0 +1,130 @@
+% TITLE PAGE
+
+\thispagestyle{empty}
+\begin{center}
+%\vspace{1cm}
+{\LARGE (Major Project Title) }\vspace{.05in}\\
+
+\vspace{4.5cm}
+
+
+BY\\
+\vspace{0.3cm}
+{\large \bf (Student Name)} \\
+{\bf (Roll No.)} \\
+\vspace{6cm}
+
+
+
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics {NirmaLogo.pdf}\\
+\end{center}
+\end{figure}
+
+%\pic{60pt}{NirmaLogo.png}\\ ~\\
+{\bf DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING}\\
+{\bf AHMEDABAD-382481}\\  ~\\
+{\bf MAY 2012}
+
+\end{center}
+
+% -------------------------------------------------------------------------
+\newpage
+\thispagestyle{empty}
+\begin{center}
+%\vspace{1cm}
+{\LARGE (Major Project Title)}
+\vspace{.05in}\\
+
+\vspace{2.5cm}
+{\large \bf Major Project}\\
+\vspace{1cm}
+
+{
+Submitted in partial fulfillment of the requirements\\
+\vspace{0.5cm}
+For the degree of\\
+\vspace{0.5cm}
+\textbf{Bachelor of Technology in (Computer Engineering OR Information Technology)}}\\
+\vspace{2cm} By\\
+\vspace{0.3cm}
+{\large \bf (Name of Student)} \\
+{\bf (Roll No.)} \\
+\vspace{1cm}
+
+
+
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics {NirmaLogo.pdf}\\
+\end{center}
+\end{figure}
+
+%\pic{60pt}{NirmaLogo.png}\\ ~\\
+{\bf DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING}\\
+{\bf AHMEDABAD-382481}\\  ~\\
+{\bf MAY 2012}
+
+\end{center}
+%---------------------------------
+% Certificate
+%---------------------------------
+\newpage
+\addcontentsline{toc}{chapter}{Certificate}\label{Certificate}
+\index{Certificate}
+\begin{center}
+{\Large \bf Certificate}\\
+\end{center}
+\vspace{10pt}
+
+\noindent This is to certify that the Major Project entitled "(Major Project Title" submitted by (Student Name (Roll No.)), towards the partial
+fulfillment of the requirements for the degree of Bachelor of
+Technology in (Computer Engineering OR Information Technology) of
+Nirma University, Ahmedabad is the record
+of work carried out by him/her under my supervision and guidance. In my
+opinion, the submitted work has reached a level required for being
+accepted for examination. The results embodied in this Project work, to
+the best of my knowledge, haven't been submitted to any other
+university or institution for award of any degree or diploma.
+\vspace{3cm}
+
+\noindent
+\begin{tabular}{ l l l }
+
+GUIDE NAME & \hspace{0.2cm} & Prof. D. J. Patel\\
+Guide and Designation, &  & Professor and Head,\\
+Dept. of Computer Science \& Engg.,& &Dept. of Computer Science \& Engg.,\\
+Institute of Technology,& &Institute of Technology,\\
+Nirma University, Ahmedabad & & Nirma University, Ahmedabad\\
+
+\end{tabular}
+\vspace{2cm}
+\noindent
+\\
+
+% -------------------------------------------------------------------------
+
+\newpage
+% ABSTRACT
+\index{Abstract}
+\begin{center}
+{\Large \bf Abstract}\\
+\end{center}\addcontentsline{toc}{chapter}{Abstract}
+\vspace{10pt}
+The 500 words abstract shall highlight the important features of the major project - I. It should consist of objective of work, scope of work, preliminary work carried out and important findings. % -------------------------------------------------------------------------
+% ACKS
+
+\newpage
+\index{Acknowledgements}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+\begin{center}
+{\Large \bf Acknowledgements}\\
+\end{center}
+\vspace{10pt} \noindent Student can write acknowledgement in own
+words.
+\begin{flushright}
+\textbf{- (STUDENT NAME)}\\ \textbf{(ROLL NO.)}
+\end{flushright}

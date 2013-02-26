@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Building a GNU/Linux distribution</title>
+
+		<meta name="description" content="Presentation of first review">
+		<meta name="author" content="ARPAN CHAVDA AND HITESH PIPROTAR">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/default.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+<div class="slides">
+    <section>
+        <h2>
+            <font face="impact">Developing&nbsp;</font>
+        </h2>
+        <h2>
+            <font face="impact">a gnu/linux</font>
+        </h2>
+        <h2>
+            <font face="impact">&nbsp;distribution</font>
+        </h2>
+        <h6 style="">
+            <span style="">BY&nbsp;</span>
+            <br>
+        </h6>
+        <h6 style="">
+            <font face="League Gothic">ARPAN CHAVDA(09BCE006)<br>
+            </font>
+        </h6>
+        <h6 style="">
+            <font face="League Gothic">&nbsp;HITESH PIPROTAR(09BCE054)&nbsp;</font>
+        </h6>
+        <h6>GUided by:&nbsp;</h6>
+        <h6>Mr. Miren karamta<br>
+        </h6>
+        <h6>Project scientist @ Bisag,Gandhinagar</h6>
+        <h2>
+            <font face="comic sans ms">&nbsp;</font>
+        </h2>
+        <h2>
+            <br>
+        </h2>
+        <h2>
+            <br>
+        </h2>
+        <h6>
+            <br>
+        </h6>
+        <p>
+        <br>
+    </p>
+</section>
+<section>
+    <h2>two Distributions</h2>
+    <div>
+        <ul>
+            <li>DMLinux : A GNU/Linux distribution for Developers,Coders,Programmers,Software Engineers.<br>
+                <br>
+                <br>
+            </li>
+            <li>OpenGujarat: A GNU/Linux Distribution for Govt. of Gujarat in regional language, developed as per requirement of BISAG and originally idea of Mr.T.P Singh(Director of BISAG).</li>
+        </ul>
+    </div>
+</section>
+<section>
+    <h2>
+        <br>
+    </h2>
+    <h2>
+        <br>
+    </h2>
+    <h2>System&nbsp;<br>
+    </h2>
+    <h2>Development</h2>
+</section>
+<section>
+    <h2>System diagram<img src="http://i.imgur.com/ZPuvV.png">
+    </h2>
+</section>
+<section>
+    <h2>HoW system will be built?</h2>
+    <div>
+        <ul>
+            <li>Download the minimal ISO from Ubuntu.com to get basic kernel with some&nbsp;utilities.<br>
+            </li>
+            <li>Configure system locale and keyboard.<br>
+            </li>
+            <li>Download source tarballs of essential utilities like apt,python,libraries, etc.</li>
+            <li>Install tarballs.</li>
+            <li>Configure installations like paths etc.</li>
+            <li>It is still command line... NO GUI!</li>
+        </ul>
+    </div>
+</section>
+<section>
+    <h2>DESKTOP&nbsp;ENVIRONMENTS</h2>
+    <div>
+        <div style="text-align: right;">
+            <li style="text-align: left;">Most famous D.E. in the market.<br>&nbsp; &nbsp; &nbsp; 1.Unity UI<br>&nbsp; &nbsp; &nbsp; 2.GNOME Shell<br>&nbsp; &nbsp; &nbsp; 3.XFCE UI<br>&nbsp; &nbsp; &nbsp; 4.LXDE UI</li>
+            <li style="text-align: left;">We have choosen GNOME Shell for DMLinux and XFCE UI for OpenGujarat based on our analysis.</li>
+        </div>
+    </div>
+</section>
+<section>
+    <h2>HOW SYSTEM FILES WILL BE CHANGED?</h2>
+    <div style="text-align: left;">
+        <ul>
+            <li>We will use following tools to delete/add/modify system files.<br>1.chroot utility<br>2.UCK toolkit(ubuntu customization toolkit)<br>3.Build essential toolkits<br>4.Package management toolkits<br>5.dconf or gconf editors to change system configurations<br>6.init.d scripts to run some scripts at system start up<br>
+                <br>
+            </li>
+        </ul>
+    </div>
+</section>
+<section>
+    <h2>
+        <br>
+    </h2>
+    <h2>
+        <br>
+    </h2>
+    <h2>DMLINUX<br>
+    </h2>
+    <div>(https://github.com/codejar-lab/dmlinux)<br>
+    </div>
+    <div>
+        <br>
+    </div>
+</section>
+<section>
+    <section>
+        <h2>Features of DMLINUX</h2>
+        <div style="text-align: left;">
+            <ul>
+                <li>Productive GUI(DE)</li>
+                <li>Language support like python,perl,ruby,etc.</li>
+                <li>Inbuilt essential IDEs like eclipse,netbeans,Qt</li>
+                <li>Markdown support</li>
+                <li>Customized DE with Eye-candy theme and icons</li>
+                <li>Inbuilt Web server (Apache,tomcat and Glassfish)</li>
+                <li>Aptana studio IDE for web developers</li>
+                <li>Customised Firfox with FirefoxOS for mobile phone<br>
+                </li>
+                <li>Linux app development utilities like quickly toolkit</li>
+                <li>ISO size : around 3 GB</li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <h2>
+            <br>
+        </h2>
+        <h2>
+            <br>
+        </h2>
+        <h2>Opengujarat</h2>
+        <div>(https://github.com/codejar-lab/opengujarat)<br>
+        </div>
+    </section>
+    <section>
+        <h2>features of opengujarat</h2>
+        <div style="text-align: left;">
+            <ul>
+                <li>Developed in Gujarati</li>
+                <li>Very lightweight with XFCE DE</li>
+                <li>Essential Office apps with accounting software</li>
+                <li>Gujarati dictionary(developed by us) support</li>
+                <li>Simple GUI having Windows type mock-up</li>
+                <li>ISO size : around 900mb</li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <h2>
+            <br>
+        </h2>
+        <h2>
+            <br>
+        </h2>
+        <h2>
+            <br>
+        </h2>
+        <h2>APP DEVELOPMENT</h2>
+    </section>
+</section>
+<section>
+    <h2>APPlications</h2>
+    <div style="text-align: left;">
+        <ul>
+            <li>Auto ON Utility : Boot PC at given user time when PC is &nbsp; already in shutdown.</li>
+            <li>Gujarati dictionary : English to Gujarati</li>
+            <li>LAMP front end : Apache MySQL and PHP front end to manage this running services</li>
+            <li>Repo-cloner : Local server package management utility</li>
+            <li>Multi Document converter : source markdown to multiple document format conversion</li>
+        </ul>
+    </div>
+</section>
+<section>
+    <h2>
+        <br>
+    </h2>
+    <h2>
+        <br>
+    </h2>
+    <h2>
+        <br>
+    </h2>
+    <h2>THANK YOU!!!</h2>
+</section>
+</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>

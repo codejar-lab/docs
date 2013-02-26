@@ -1,0 +1,36 @@
+\chapter{Use Case Diagram}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics [scale=0.8] {Navigation.jpg}
+  \caption[Use Case - Navigation]{}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics [scale=0.8] {addremove.jpg}
+  \caption[Use Case - Layer]{}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics [scale=0.8] {Print.jpg}
+  \caption[Use Case - Print]{}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics [scale=0.7] {Measure.jpg}
+  \caption[Use Case - Measure]{}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics [scale=0.7] {Selection.jpg}
+  \caption[Use Case - Selection]{}
+\end{center}
+\end{figure}

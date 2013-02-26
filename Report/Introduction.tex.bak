@@ -1,0 +1,290 @@
+\chapter{Introduction}
+
+\section{The System}
+\subsection{Definition of System}
+The proposed “Desktop GIS application” is designed to work on geo graphical data.The system does the processing on the various maps.The system also includes the processing of database information which is related to the maps.
+
+\subsection{Project Developement Model}
+A software development model is a simplified description/abstract representation of a software process which is presented from a particular perspective.A development model for software engineering is chosen based on the nature of the project and application,the methods and the tools to be used,and the controls and the deliverables that are required.
+
+All software development can be characterized as a problem solving loop   in which four distinct stages are encountered:
+\begin{itemize}
+\item {\bf Status Quo:} Represents the current state of affairs.
+\item {\bf Problem Definition:} Identifies the specific problem to be solved.
+\item {\bf Technical  Development:} Solves the problem through application of some technology.
+\item {\bf Solution Integration:} Delivers  the  results  like  documents, programs, data, etc. to those who requested the solution.
+\end{itemize}
+There are many software development models.In this project spiral model is followed.
+
+\bf{SPIRAL MODEL}
+The spiral model of software development and evolution represents a risk driven approach to software process     analysis and structuring. This approach incorporates elements of specification-driven, prototype-driven process methods, together with the classic software life cycle. It does so by representing iterative development cycles as an expanding spiral, with inner cycles denoting early system analysis and prototyping, and outer cycles denoting the classic software life cycle. Every iterative cycle of the spiral  model consists of the following:
+
+\begin{itemize}
+\item Customer Communication
+\item Planning
+\item Risk Analysis
+\item Engineering
+\item Construction and Release
+\item Customer Evaluation
+\end{itemize}
+The evolutionary process starts from the core of the spiral from the customer communication region and revolves in a clockwise direction as if it was coming out of the spiral. The spiral model is considered as  one of the most popular system process flow model as it contains the repeated execution of SDLC till the completion of the process.Some of its benefits are:
+\begin{itemize}
+\item Focuses attention on reuse options.
+\item Focuses attention on early error elimination.
+\item Puts quality objectives upfront.
+\item Integrates development and maintenance.
+\item Provides a framework for hardware/software development.
+\end{itemize}
+
+\subsection{Concerned Audiences And Users }
+Users of the system Desktop GIS Application are as follows:-
+Any user with Geo refrenced Data can use this software to manipulate its data and solve the desired purpose.
+
+\subsection{Purpose and Objective}
+The Desktop GIS Application has a primary purpose of providing all round support to the customer. It fulfills the following objectives:
+
+A geographic information system is an information management tool that helps us to store, organize and utilize spatial information in a form that will enable everyday tasks to be completed more efficiently. Since its rapid growth over the last two decades, GIS technology has become a vital element for us to maintain and integrate information. GIS software, and the hardware required to operate it, have become much more affordable and easy to use. This has resulted in the ability to develop a GIS without making large investments in software
+
+\subsection{About Existing system}
+Esri ArcGIS. From my experience its slow to navigate around maps and quite verbose to program in causing quite a lead time in development.But major disadvantage of it is, it's cost. ArcGIS is too costly for small businesses.
+Esri is also the most expensive product on the market, and i believe also the most popular.
+There are OpenSource Libraries
+\begin{itemize}
+\item FDO
+\item GDAL/OGR
+\item GeoTools
+\item GEOS
+\item MetaCRS
+\item PostGIS
+\end{itemize}
+Using these one can build our own software and make it openSource. So future enhancement and development can be done by other people.
+
+
+\subsection{Proposed System}
+\subsubsection{Functional Requirements}
+\begin{itemize}
+\item Provide the user with a choice of geospatial data formats
+\item Pan the extent of the map by clicking on the map image and dragging the mouse.
+\item Zoom in the extent of the map by either:
+\item Clicking and dragging a box on the current map extent in order to select the new Extent
+\item Zoom out the extent of the map out by clicking a point on the map in order to zoom the mapout a preset amount
+\item This tool enables the user to perform a rough distance measure (in some default unit of measure) by clicking two points on the map.
+\item This feature will present a small full-extent image of the currently selected data set and indicate with a bounding box the geographic extent that is currently being viewed in the main map window.
+\item A simple single-click ID tool will enable the user to visually select a geographic feature from the map in order to ascertain a listing of attribute data affiliated with that geographic feature. The purpose of the tool is to enable the user to quickly and easily orient themselvesby performing a simple spot-check on the geographic data. Multiple records would only be retrieved by this selection in the event that multiple features are stacked on top of oneanother in an indiscernible fashion.
+\item The user will have the ability to selectively toggle the visibility of any map layer “on” or “off”.
+\item The user will have the ability to order the map layers in any way they choose.
+\item The user will have the ability to select a single map layer to become the “active” data layer –the layer on which identify queries are performed.
+\item The user will have the ability to save the current map view that is displayed as an image file to their local workstation.
+\item An enhanced zoom out function will provide the user with the ability to drag a box and havethe current visible extent reduced to the size of that box, thus revealing a broader viewablearea overall.
+\item Feature Filter Tool:This feature allows the user to filter features selected for extract by filtering on an attribute
+\item The user can perform Query on the Map Database
+\item The User can measure distance between two points in Map
+\item The user can find the country or state from the given Map
+\item The user can change the CRS of shape file and save the modified shape file.
+\end{itemize}
+
+\subsubsection{Non-Functional Requirements}
+\begin{itemize}
+\item Reliability   of   the   system   is   of   primary   importance.   As   the   system   is internet  based and  would  be  accessed  many  times  by  various  different clients    for   various    different  purposes,   it   should   entirely   robust   and reliable.
+\item Maintainability The system should  be  designed  to be easily maintainable and  get  the least complaints from the users and  would  guarantee  high customer satisfaction and  minimum downtime.
+\item Adaptability: The  system  must  be  entirely  adaptable  and  should   easily  gel  with  the parent modules without causing much of rework or displacement.
+\item Extensibility: The   system   should   be   designed   to   be   extensible   to   changes.   Changes might be a result of
+\begin{itemize}
+\item User requirement change.
+\item Compliance to follow some new company policy.
+\end{itemize}
+\item Facility  provided  by  the  technology  employed  should  be  utilized  to its maximum. This refers to strict employment of the tools and technology being  used.
+\item Development   should   be   in   accordance   to   the   Software   Design Document. This  rule stresses  the  importance of  the Software  Design documents.  They are    the    main    source    of    requirements    for    off    site    developers.    And depending   on   various   versions   of   the   SDD   the   change   requests   are recorded. Finally the extra effort involved in solving these change requests is recovered from the client.
+\item All deliverables should undergo a self review by the       developer.This  business  rule  stresses  on  the  rechecking  process  to  be   carried  out  by the   developer.   This   implies   that   once   the   deliverable   undergoes   QA   it should be with minimum errors and in turn involve minimum rework.
+\begin{itemize}
+\item Security and Privacy Requirements
+\item Environmental Requirements
+\item Computer Resource Requirements
+\item Computer Hardware Requirements
+\item Computer Hardware Resource Utilization Requirements
+\item Computer Software Requirements
+\item Software Quality Factors
+\item Packaging Requirements
+\item Precedence and Criticality of Requirements
+\item The system must be user friendly
+\item It must be persistant
+\item Future Modification and requirement can be adaptable.
+\item The system must be maintainable.
+\end{itemize}
+\end{itemize}
+
+\section{Project Profile}
+\subsection{Project Title}
+Desktop GIS Application
+\subsection{Scope of Project}
+The proposed desktop application is designed to work on geo graphical data. The system does the processing on the various maps. The system also includes the processing of database information which is related to the maps.
+
+\subsection{Project Team}
+\begin{tabular}{ l l l }
+External Project Guide& :& Dr. Navinchandra N. Shrivastava\\
+Internal Project Guide& :& Dr. S. N. Pradhan\\
+Team Members& :& Krupesh Patel\\
+ & & Aliasgar Hada
+\end{tabular}
+\subsection{Hardware/Software environment in company}
+\textbf{Hardware}\\
+Hard Disk : 150 GB\\
+RAM : 3 GB\\
+Processor : Intel Core2Duo 1.80 GHz\\
+\textbf{Software}\\
+OS        :Windows 7\\
+Netbeans 7.0\\
+Java 6\\
+Geotools Library\\
+Rational Rose\\
+Gantt Project\\
+
+\subsection{Project plan}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics[scale=0.85] {ProjectPlan1.png}
+  \caption[Project Planning]{Project Plan}
+\end{center}
+\end{figure}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics[scale=0.8] {ProjectPlan2.png}\\
+  \caption[Timeline]{Project Plan - Timeline}
+\end{center}
+\end{figure}
+
+
+\chapter{System Analysis}
+\section{Feasibility Study}
+The Objective of the Feasibility study:
+The purpose of the Feasibility study is to find out if an information system project can be done and to suggest possible alternate solution. Feasibility study of the system is very important stage during the system design. Feasibility study is a test of a system proposal according to its workability impact on the organization, ability to meet user needs, and effective use of resources. (Hardware, Software, or other equipments), It is also use to determine whether the system gives benefit to people or society or not? Feasibility study decides whether the proposed system is properly developed or not or it properly work as per the expectation of the company or not.
+
+Need for Feasibility Study:
+A feasibility study is written approach to evaluating your idea and can help you identify:
+\begin{itemize}
+\item If your idea is viable or not
+\item Useful facts and figures to aid decision-making
+\item Alternative approaches and solutions to putting your idea into practice
+\end{itemize}
+There are many reasons why new community ventures fail, but lack of planning and research is the main one. As you plan, your knowledge of your market, customers and the environment in which you will work will grow. This process considers all areas of your idea and ensures you have something concrete on paper.
+
+What does a feasibility study involve?
+
+It can involve some or all of the following:
+\begin{itemize}
+\item An assessment of the current market
+\item An assessment of your potential position in the market
+\item An evaluation of the possible options for entry into the market
+\item A short list of the possible options
+\end{itemize}
+There are some aspects in feasibility study portion of the preliminary investigation.
+\begin{enumerate}
+  \item Technical Feasibility.
+  \item Economic Feasibility.
+  \item Operational Feasibility.
+  \item Social Feasibility.
+  \item Legal Feasibility
+  \item Time Feasibility of the project.
+\end{enumerate}
+
+\subsection{Technical feasibility}
+A large part of determining resources has to do with assessing technical feasibility. It must be find out whether current technical resources can be upgraded or added in a manner that fulfills the request  under consideration. It is willing to improve its technical abilities of the project will be handled on the computerized concept so it has to improve some hardware and software abilities to maintain this system and it billing to improve and give all the supported facilities.
+Here, the Proposed System which is to be developed requires Hardware as well as Software Resources.
+A Hardware requirement includes PC with 40GB Hard disk and 1GB RAM.  Software requirement includes Java.
+File requirement: Shape Files or geo referenced .jpg or .tiff file
+It may be affordable for any organization to employee new professional thus, the requirement makes it technical feasible.
+
+\subsection{Economic feasibility}
+Economic feasibility looks at the financial aspects of the project. Economic feasibility concerns with the returns from the investments in a project. It determines whether it is worthwhile to invest the money in the proposed system. It is not worthwhile spending a lot of money on a project for no returns.
+To carry out an economic feasibility for a system, it is necessary to place actual money value against any purchases or activities needed to implement the project.
+The proposed system that is going to develop its benefit is indirect benefit and cost is direct cost that is to be paid. It costs for its development and hiring of the Server space. But it gives indirect benefit to businessman’s tourist etc.
+
+\subsection{Operational feasibility}
+The System will hold good GUI facilities which attract the user to use the System. The System will be developed using new technologies so the user will even get a chance work with and learn new technology and environment.
+Company is having sufficient employees for designing, implementing, testing, deploying and the training the employee to uses that system.
+In the system operational feasibility checks, whether the user who is going to use the system is able to work with the software’s with which the system is coded and also the mind of the user going to use the system. If the user does not understand or is able to work on the system further development is of waste.
+
+\subsection{Social feasibility}
+The System is going to be developed is it beneficial to society? Yes, as this System gives the details of the district to the user and admin and user can edit the shape files and get better view of the map also by having charts cam save as image which can be useful as map
+\subsection{Legal feasibility}
+The Proposed System should be such that the System do not misguide or gives wrong information to user. The System should give proper information and should be reliable source of information to user.
+\subsection{Time feasibility}
+The Proposed System is a Desktop  Application so it will take some duration of time to satisfy the objective of completing the System (Application). The duration that is allocated to develop the System is quite feasible in respect to time. 4 months is enough to develop System.
+
+\section{Requirement Analysis}
+\subsection{Facts finding techniques}
+The client in most cases is not sure of what exactly is desired and has a poor understanding of the computing environment
+\begin{itemize}
+\item Inception of the Project
+\item Basic Elicitation
+\begin{itemize}
+\item Problems of Scope
+\item Problems of Understanding
+\item Problems of Volatility
+\end{itemize}
+\item Elaboration
+\item Negotiation
+\item Specification
+\item Validation
+\item Management (Continuous)
+\item The  following  techniques  are  present  unambiguously  throughout  the  project  and possess enormous power with regard to requirement gathering.
+\end{itemize}
+
+\subsubsection{Interview}
+The requirement analysis phase begins after the inception of the project.
+The first phase of interviews is mainly a kind of informal discussions with the client. In this phase the analysts who are the evangelists in the process of requirement elicitation generally do the following:
+\begin{itemize}
+\item Ask a set of Informal  Context Free Questions regarding  the system.
+\item Talk   through   with   the   client   to   know   his   intention   with   regard   to   the project.
+\item Define  a  business  case  for  the  idea  along  with  the  performance  of  certain kind of market analysis.
+\item Identify a working description of the project’s scope.
+\end{itemize}
+The later phases of interviews involve the following kind of facets:
+\begin{itemize}
+\item Discussion  on  the  Division  of  the  entire  thing  into  manageable  and  doable modules.
+\item Module wise interviews with the various personnel  involved.
+\item Certain   kind   of   debatable   presentations   which   may   be   clubbed   with brainstorming or prototyping  sessions.
+\end{itemize}
+This mode of requirement gathering is the one that provides the maximum amount of information regarding the  project and hence is used very effectively. This mode can turn into all various forms ranging from strict one room interviews to large debatable discussions.
+
+\subsubsection{Questionnaire}
+This mode of requirement elicitation is generally employed during change management and while laying out basic system explanations.
+Questionnaires used in the project are framed keeping into mind the following things:
+\begin{itemize}
+\item Amount and the kind  of information to be extracted  through this     channel.
+\item The kind of stake holder to whom the questionnaire is addressed.
+\item The reusability and  abstractness of these questionnaires.
+\end{itemize}
+\subsubsection{Record Review}
+
+The records analyzed by me  were mainly the following:
+\begin{itemize}
+\item Software Design Document
+This gave me the actual requirements of the GUI plus the backend logic right till statement of logical queries which may be employed in some or the other form. It also incorporated the sample GUI so that any  changes to the prototypes submitted earlier can be  checked and tracked.
+\item Technical SRS (with Business Analysis)
+This was a typical  SRS  that gave me the specific requirements along with the Business rules that need to be employed.
+\item Class Diagrams
+The class diagram made me understand the entire architecture that was employed and allowed me to extend it in my system.
+\end{itemize}
+\subsubsection{Observation}
+This is also the method employed very widely in the project being developed. The  developers working   onsite generally engage in the observation of the following things:
+\begin{itemize}
+\item Work Environment of the organization.
+\item The technical expertise of the employees of the organization.
+\item The volume of customers entertained.
+\item The kind of system expected.
+\item The  resistance  in  the  organization  due   while   the   organization  gets   the system installed.
+\item The usage of any of the available systems.
+\end{itemize}
+During the continuous management phase that starts once the system is installed and is running the   observation regarding system usage, system inconveniences and system benefits is carried  out.
+
+\subsection{Data Flow Diagrams}
+\begin{figure}[h]
+\begin{center}
+  % Requires \usepackage{graphicx}
+  \includegraphics [scale=0.43] {DataFlow.png}
+  \caption[Data Flow Diagram]{Data flow diagram of desktop GIS application}
+\end{center}
+\end{figure}
