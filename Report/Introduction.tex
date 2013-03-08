@@ -2,86 +2,154 @@
 
 \section{The System}
 \subsection{Definition of System}
-The proposed “Desktop GIS application” is designed to work on geo graphical data.The system does the processing on the various maps.The system also includes the processing of database information which is related to the maps.
-
-\subsection{Project Developement Model}
-A software development model is a simplified description/abstract representation of a software process which is presented from a particular perspective.A development model for software engineering is chosen based on the nature of the project and application,the methods and the tools to be used,and the controls and the deliverables that are required.
-
-All software development can be characterized as a problem solving loop   in which four distinct stages are encountered:
+The proposed system "Development of GNU/Linux�distribution" is designed to work on Linux environment.There are two distributions.\\
+\begin{enumerate}
+\item {\bf DMLinux}\\
 \begin{itemize}
-\item {\bf Status Quo:} Represents the current state of affairs.
-\item {\bf Problem Definition:} Identifies the specific problem to be solved.
-\item {\bf Technical  Development:} Solves the problem through application of some technology.
-\item {\bf Solution Integration:} Delivers  the  results  like  documents, programs, data, etc. to those who requested the solution.
+\item DMLinux stands for developers� mono Linux.It is an Open source and Free GNU/Linux Operating system originally forked from Ubuntu.DMLinux is developed for developers and Computer Science/I.T. students.\\
 \end{itemize}
-There are many software development models.In this project spiral model is followed.
-
-\bf{SPIRAL MODEL}
-The spiral model of software development and evolution represents a risk driven approach to software process     analysis and structuring. This approach incorporates elements of specification-driven, prototype-driven process methods, together with the classic software life cycle. It does so by representing iterative development cycles as an expanding spiral, with inner cycles denoting early system analysis and prototyping, and outer cycles denoting the classic software life cycle. Every iterative cycle of the spiral  model consists of the following:
-
+\item {\bf OpenGujarat}\\
 \begin{itemize}
-\item Customer Communication
-\item Planning
-\item Risk Analysis
-\item Engineering
-\item Construction and Release
-\item Customer Evaluation
+\item Development of this distribution is an idea of BISAG director Mr.T.P Singh to design an operating system which is completely in regional language(Gujarati) ,so that it can be used by all the students of gujarat students who have some problems in understanding English language.So 
+these students find it easy to use which is in regional language.\\
 \end{itemize}
-The evolutionary process starts from the core of the spiral from the customer communication region and revolves in a clockwise direction as if it was coming out of the spiral. The spiral model is considered as  one of the most popular system process flow model as it contains the repeated execution of SDLC till the completion of the process.Some of its benefits are:
-\begin{itemize}
-\item Focuses attention on reuse options.
-\item Focuses attention on early error elimination.
-\item Puts quality objectives upfront.
-\item Integrates development and maintenance.
-\item Provides a framework for hardware/software development.
-\end{itemize}
+\end{enumerate}
 
 \subsection{Concerned Audiences And Users }
-Users of the system Desktop GIS Application are as follows:-
-Any user with Geo refrenced Data can use this software to manipulate its data and solve the desired purpose.
+Users of the system are as follows:-\\
+\begin{enumerate}
+\item DMLinux: Developers, Coders, Programmers, Software engineers, Students.
+
+\item OpenGujarat:BISAG, Offices of Govt. of Gujarat, and other regional people of Gujarat
+
+\end{enumerate}
+
 
 \subsection{Purpose and Objective}
-The Desktop GIS Application has a primary purpose of providing all round support to the customer. It fulfills the following objectives:
+\begin{enumerate}
+\item {\bf DMLinux:}
+ The purpose of DMLinux aims to provide all packages and all the softwares to developers 
+and students who don�t have very high speed internet connection or who lives in remote 
+area. This system requires no activation unlike in windows. So developers don�t have to 
+bother about taking license and activation of os and all these stuffs.
+\item {\bf OpenGujarat:} The purpose of OpenGujarat is to provide os to Gujarat students which is completely in 
+regional language (Gujarati). 
 
-A geographic information system is an information management tool that helps us to store, organize and utilize spatial information in a form that will enable everyday tasks to be completed more efficiently. Since its rapid growth over the last two decades, GIS technology has become a vital element for us to maintain and integrate information. GIS software, and the hardware required to operate it, have become much more affordable and easy to use. This has resulted in the ability to develop a GIS without making large investments in software
+\end{enumerate}
+
 
 \subsection{About Existing system}
-Esri ArcGIS. From my experience its slow to navigate around maps and quite verbose to program in causing quite a lead time in development.But major disadvantage of it is, it's cost. ArcGIS is too costly for small businesses.
-Esri is also the most expensive product on the market, and i believe also the most popular.
-There are OpenSource Libraries
 \begin{itemize}
-\item FDO
-\item GDAL/OGR
-\item GeoTools
-\item GEOS
-\item MetaCRS
-\item PostGIS
+\item There are so many existing Linux distributions with different-different desktop environment like KDE,GNOME SHELL,UNITY,XFCE,LXDE are available now a days like for hacking {\bf Backtrack,Blackbuntu} are there,if you go for server distribution {\bf Annvix,Scientific Linux} are there.If you want an os for embedded system then {\bf ELinOS} exists but there is no distribution available in market for developers .So {\bf DMlinux} is unique distribution for developers and there is no alternative available.There is no Linux distribuiton available which is completely in gujarati language so {\bf OpenGujarat} is also an unique distribution which is in regional language(Gujarati)
 \end{itemize}
-Using these one can build our own software and make it openSource. So future enhancement and development can be done by other people.
 
 
 \subsection{Proposed System}
 \subsubsection{Functional Requirements}
+\begin{enumerate}
+\item {\bf DMLinux}
 \begin{itemize}
-\item Provide the user with a choice of geospatial data formats
-\item Pan the extent of the map by clicking on the map image and dragging the mouse.
-\item Zoom in the extent of the map by either:
-\item Clicking and dragging a box on the current map extent in order to select the new Extent
-\item Zoom out the extent of the map out by clicking a point on the map in order to zoom the mapout a preset amount
-\item This tool enables the user to perform a rough distance measure (in some default unit of measure) by clicking two points on the map.
-\item This feature will present a small full-extent image of the currently selected data set and indicate with a bounding box the geographic extent that is currently being viewed in the main map window.
-\item A simple single-click ID tool will enable the user to visually select a geographic feature from the map in order to ascertain a listing of attribute data affiliated with that geographic feature. The purpose of the tool is to enable the user to quickly and easily orient themselvesby performing a simple spot-check on the geographic data. Multiple records would only be retrieved by this selection in the event that multiple features are stacked on top of oneanother in an indiscernible fashion.
-\item The user will have the ability to selectively toggle the visibility of any map layer “on” or “off”.
-\item The user will have the ability to order the map layers in any way they choose.
-\item The user will have the ability to select a single map layer to become the “active” data layer –the layer on which identify queries are performed.
-\item The user will have the ability to save the current map view that is displayed as an image file to their local workstation.
-\item An enhanced zoom out function will provide the user with the ability to drag a box and havethe current visible extent reduced to the size of that box, thus revealing a broader viewablearea overall.
-\item Feature Filter Tool:This feature allows the user to filter features selected for extract by filtering on an attribute
-\item The user can perform Query on the Map Database
-\item The User can measure distance between two points in Map
-\item The user can find the country or state from the given Map
-\item The user can change the CRS of shape file and save the modified shape file.
+\item {\bf Features of DMLinux}
+\begin{itemize}
+
+
+
+\item Productive GUI(DE)
+\item Language support like python,perl,ruby,etc.
+\item Inbuilt essential IDEs like eclipse,netbeans,Qt
+\item Inbuilt android development SDK support with eclipse
+\item Markdown support
+\item Inbuilt Hardware based programming IDE like Arduino,Logisim
+\item Customized DE with Eye-candy theme and icons
+\item Inbuilt Web server (Apache,tomcat and Glassfish)
+\item Aptana studio IDE for web developers
+\item Customised Firfox with FirefoxOS application development toolkit for 	 mobile phones
+\item Linux app development utilities like quickly toolkit
+\item ISO size : around 3 GB
 \end{itemize}
+\item {\bf System modules of DMLinux}
+\begin{itemize}
+\item {\bf Core Module:}
+\begin{itemize}
+\item This module contains all core files means Kernel,device drivers,network utilities,etc. This will be available in Ubuntu minimal disc(27 MB). We are not going to touch this files for development.
+\end{itemize}
+\item {\bf Application module:}
+\begin{itemize}
+\item This module contains all necessary applications needed for software developers.
+\item All inclusion of application is based on our analysis and reviews of some 
+developers working in some companies and our alumni.
+\item We will try to develop following application after completion of system build.
+\begin{itemize}
+\item {\bf Auto ON Utility:} Boot PC at given user time when PC is already in 
+shutdown.
+\item {\bf LAMP front end:} Apache MySQL and PHP front end to manage this 
+running services
+\item {\bf Repo-cloner:} Local server package management utility
+\item {\bf Multi Document converter:} source markdown to multiple document 
+format conversion.
+\end{itemize}
+
+
+\end{itemize}
+\item {\bf Desktop Environment module:}
+\begin{itemize}
+\item This module contains desktop environment provided in DMLinux. We have 
+choosen GNOME Shell 3.6 as Desktop environment for DMLinux.
+\item We will customize gnome shell to make more usefull and productive then its 
+original version.
+
+\end{itemize}
+\end{itemize}
+
+
+\end{itemize}
+
+\item {\bf OpenGujarat}
+\begin{itemize}
+\item {\bf Features of OpenGujarat}
+\begin{itemize}
+\item Developed in Gujarati
+\item Very lightweight
+\item Can run with 256mb RAM
+\item Inbuilt Gujarati dictionary(developed by us) support 
+\item Simple Desktop Environment having Windows type mock-up
+\item ISO size : around 900mb
+
+\end{itemize}
+
+
+\item {\bf System modules of OpenGujarat}
+\begin{itemize}
+\item {\bf Core Module:}
+\begin{itemize}
+\item This module contains all core files means Kernel,device drivers,network 
+utilities,etc. This will be available in Ubuntu minimal disc(27 MB). We 
+are not going to touch this files for development.
+
+\end{itemize}
+
+\item {\bf Application module:}
+\begin{itemize} 
+\item This module contains all necessary applications needed for simple tasks.
+\item All inclusion of application is based on requirement of BISAG.
+\item We will try to develop following application after completion of system 
+build.
+\begin{itemize}
+\item English to Gujarati Dictionary
+\end{itemize}
+\end{itemize}
+\item {\bf Desktop Environment module:}
+\begin{itemize}
+\item This module contains desktop environment provided in DMLinux. We 
+have choosen XFCE 4.1 for OpenGujarat.
+\end{itemize}
+
+\end{itemize}
+
+\end{itemize}
+\end{enumerate}
+
+
 
 \subsubsection{Non-Functional Requirements}
 \begin{itemize}
@@ -115,42 +183,56 @@ Using these one can build our own software and make it openSource. So future enh
 
 \section{Project Profile}
 \subsection{Project Title}
-Desktop GIS Application
+Development of GNU/Linux distribution
 \subsection{Scope of Project}
-The proposed desktop application is designed to work on geo graphical data. The system does the processing on the various maps. The system also includes the processing of database information which is related to the maps.
+\begin{enumerate}
+\item {\bf Scope for DMLinux:} Developers, Coders, Programmers, Software engineers
+\item {\bf Scope for OpenGujarat:} BISAG, Offices of Govt. of Gujarat, and other regional people of Gujarat
+\end{enumerate}
 
 \subsection{Project Team}
 \begin{tabular}{ l l l }
-External Project Guide& :& Dr. Naveenchandra N. Shrivastava\\
-Internal Project Guide& :& Dr. S. N. Pradhan\\
-Team Members& :& Krupesh Patel\\
- & & Aliasgar Hada
+External Project Guide& :& Mr. Miren Karamta\\
+Internal Project Guide& :& Dr. Sanjay Garg\\
+Team Members& :& Arpan Chavda\\
+ & & Hitesh Piprotar
 \end{tabular}
 \subsection{Hardware/Software environment in company}
-\textbf{Hardware}\\
-Hard Disk : 150 GB\\
-RAM : 3 GB\\
-Processor : Intel Core2Duo 1.80 GHz\\
-\textbf{Software}\\
-OS        :Windows 7\\
-Netbeans 7.0\\
-Java 6\\
-Geotools Library\\
-Rational Rose\\
-Gantt Project\\
+
+
+\begin{enumerate}
+\item {\bf DMLinux}
+
+\begin{itemize}
+\item Processor: Pentium 4 or later \& Freq. 1GHz or more
+\item Minimum RAM: 1 GB RAM
+\item Recommended Space: approximate 8 to 9 GB
+\item Color Monitor, Keyboard and Mouse
+\item Internet or Intranet
+\end{itemize}
+
+\item {\bf OpenGujarat}
+\begin{itemize}
+\item Processor: Pentium 4 or later \& Freq. 1GHz or more
+\item Minimum RAM: 1 GB RAM
+\item Recommended Space: approximate 8 to 9 GB
+\item Color Monitor, Keyboard and Mouse
+\item Internet or Intranet 
+\end{itemize}
+\end{enumerate}
 
 \subsection{Project plan}
 \begin{figure}[h]
 \begin{center}
   % Requires \usepackage{graphicx}
-  \includegraphics[scale=0.85] {ProjectPlan1.png}
+  \includegraphics[scale=0.6] {gantt1.png}
   \caption[Project Planning]{Project Plan}
 \end{center}
 \end{figure}
 \begin{figure}[h]
 \begin{center}
   % Requires \usepackage{graphicx}
-  \includegraphics[scale=0.8] {ProjectPlan2.png}\\
+  \includegraphics[scale=0.4] {gantt2.png}\\
   \caption[Timeline]{Project Plan - Timeline}
 \end{center}
 \end{figure}

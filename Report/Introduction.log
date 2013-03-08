@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.26)  27 APR 2012 03:46
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.27)  27 FEB 2013 15:12
 entering extended mode
-**C:/Users/Krupesh/Desktop/Report*Format/Introduction.tex
-("C:/Users/Krupesh/Desktop/Report Format/Introduction.tex"
+**Introduction.tex
+("C:\Users\Hitesh Piprotar\Desktop\Report\Introduction.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -25,10 +25,10 @@ End of file on the terminal!
  
 Here is how much of TeX's memory you used:
  7 strings out of 494045
- 229 string characters out of 3145963
+ 232 string characters out of 3148357
  48890 words of memory out of 3000000
  3399 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 5i,0n,1p,81b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 5i,0n,1p,42b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.25)  25 FEB 2013 14:50
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.27)  27 FEB 2013 13:28
 entering extended mode
 **coverpages.tex
-("G:\DMLinux Docs\Report Format\coverpages.tex"
+("C:\Users\Hitesh Piprotar\Desktop\Report\coverpages.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -34,7 +34,7 @@ If that doesn't work, type  X <return>  to quit.
  
 Here is how much of TeX's memory you used:
  8 strings out of 494045
- 325 string characters out of 3148384
+ 355 string characters out of 3148357
  48890 words of memory out of 3000000
  3399 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000

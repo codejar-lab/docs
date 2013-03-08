@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.25)  25 FEB 2013 15:21
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.27)  4 MAR 2013 12:15
 entering extended mode
 **main.tex
-("G:\DMLinux Docs\Report Format\main.tex"
+("C:\Users\Hitesh Piprotar\Desktop\Report\main.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -86,7 +86,7 @@ Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-("G:\DMLinux Docs\Report Format\rotating.sty"
+("C:\Users\Hitesh Piprotar\Desktop\Report\rotating.sty"
 Package: rotating 1995/08/22 2.10 Rotation package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
@@ -104,7 +104,7 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen105
 \epsfysize=\dimen106
 )
-("G:\DMLinux Docs\Report Format\algorithms.sty"
+("C:\Users\Hitesh Piprotar\Desktop\Report\algorithms.sty"
 \c@algorithm=\count90
 \c@algorithmline=\count91
 \linelabelwidth=\skip46
@@ -226,16 +226,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip53
 )
-("G:\DMLinux Docs\Report Format\setspace.sty")
+("C:\Users\Hitesh Piprotar\Desktop\Report\setspace.sty")
 \@indexfile=\write3
 
 Writing index file main.idx
-("G:\DMLinux Docs\Report Format\main.aux"
-("G:\DMLinux Docs\Report Format\Introduction.aux")
-("G:\DMLinux Docs\Report Format\Usecase.aux")
-("G:\DMLinux Docs\Report Format\classdiagrams.aux")
-("G:\DMLinux Docs\Report Format\usermanual.aux")
-("G:\DMLinux Docs\Report Format\ch4.aux"))
+("C:\Users\Hitesh Piprotar\Desktop\Report\main.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
@@ -279,12 +274,12 @@ LaTeX Info: Redefining \ref on input line 42.
 LaTeX Info: Redefining \pageref on input line 42.
 LaTeX Info: Redefining \nameref on input line 42.
 
-("G:\DMLinux Docs\Report Format\main.out")
-("G:\DMLinux Docs\Report Format\main.out")
+("C:\Users\Hitesh Piprotar\Desktop\Report\main.out")
+("C:\Users\Hitesh Piprotar\Desktop\Report\main.out")
 \@outlinefile=\write4
 
-("G:\DMLinux Docs\Report Format\coverpages.tex"
-<Bisag.png, id=191, 202.50656pt x 117.43875pt>
+("C:\Users\Hitesh Piprotar\Desktop\Report\coverpages.tex"
+<Bisag.png, id=187, 202.50656pt x 117.43875pt>
 File: Bisag.png Graphic file (type png)
  <use Bisag.png>
 Package pdftex.def Info: Bisag.png used on input line 15.
@@ -300,30 +295,32 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 26.
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 
-pdfTeX warning: pdflatex.exe (file G:/DMLinux Docs/Report Format/NirmaLogo.pdf)
-: PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<NirmaLogo.pdf, id=193, 172.645pt x 72.27pt>
+pdfTeX warning: pdflatex.exe (file C:/Users/Hitesh Piprotar/Desktop/Report/Nirm
+aLogo.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> a
+llowed
+<NirmaLogo.pdf, id=189, 172.645pt x 72.27pt>
 File: NirmaLogo.pdf Graphic file (type pdf)
  <use NirmaLogo.pdf>
 Package pdftex.def Info: NirmaLogo.pdf used on input line 45.
 (pdftex.def)             Requested size: 69.05676pt x 28.90747pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <G:/DMLinux Docs/Report Fo
-rmat/Bisag.png> <G:/DMLinux Docs/Report Format/NirmaLogo.pdf>]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Hitesh Piprotar/
+Desktop/Report/Bisag.png> <C:/Users/Hitesh Piprotar/Desktop/Report/NirmaLogo.pd
+f>]
 File: Bisag.png Graphic file (type png)
- <use Bisag.png>
+
+<use Bisag.png>
 Package pdftex.def Info: Bisag.png used on input line 66.
 (pdftex.def)             Requested size: 91.12709pt x 52.84694pt.
 File: NirmaLogo.pdf Graphic file (type pdf)
-
-<use NirmaLogo.pdf>
+ <use NirmaLogo.pdf>
 Package pdftex.def Info: NirmaLogo.pdf used on input line 92.
 (pdftex.def)             Requested size: 69.05676pt x 28.90747pt.
- [2] <BisagLogo.png, id=207, 512.66531pt x 137.01187pt>
+ [2]
+<BisagLogo.png, id=203, 512.66531pt x 137.01187pt>
 File: BisagLogo.png Graphic file (type png)
-
-<use BisagLogo.png>
+ <use BisagLogo.png>
 Package pdftex.def Info: BisagLogo.png used on input line 106.
 (pdftex.def)             Requested size: 512.66405pt x 137.01154pt.
 
@@ -342,14 +339,8 @@ Overfull \hbox (0.73007pt too wide) in paragraph at lines 116--120
 cmr/bx/n/12 Mr Arpan Chavda(09bce006)
  []
 
-[3 <G:/DMLinux Docs/Report Format/BisagLogo.png>]
-Overfull \hbox (8.14163pt too wide) in paragraph at lines 143--146
-\OT1/cmr/bx/n/12 Dis-tri-bu-tions" \OT1/cmr/m/n/12 sub-mit-ted by \OT1/cmr/bx/n
-/12 Arpan Chavda (ID: 09BCE006) \OT1/cmr/m/n/12 and \OT1/cmr/bx/n/12 Hitesh Pip
-ro-
- []
-
-[4] <Campus.png, id=217, 441.14813pt x 173.14688pt>
+[3 <C:/Users/Hitesh Piprotar/Desktop/Report/BisagLogo.png>] [4]
+<Campus.png, id=213, 441.14813pt x 173.14688pt>
 File: Campus.png Graphic file (type png)
  <use Campus.png>
 Package pdftex.def Info: Campus.png used on input line 170.
@@ -362,7 +353,7 @@ Overfull \hbox (7.52705pt too wide) in paragraph at lines 170--170
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-<BisagProfile1.png, id=218, 366.61969pt x 252.19218pt>
+<BisagProfile1.png, id=214, 366.61969pt x 252.19218pt>
 File: BisagProfile1.png Graphic file (type png)
  <use BisagProfile1.png>
 Package pdftex.def Info: BisagProfile1.png used on input line 183.
@@ -375,7 +366,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--190
 
  []
 
-[5 <G:/DMLinux Docs/Report Format/Campus.png>]
+[5 <C:/Users/Hitesh Piprotar/Desktop/Report/Campus.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 192.
 
 
@@ -384,13 +375,13 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 192.
- [6 <G:/DMLinux Docs/Report Format/BisagProfile1.png>]
+ [6 <C:/Users/Hitesh Piprotar/Desktop/Report/BisagProfile1.png>]
 Overfull \hbox (13.87614pt too wide) in paragraph at lines 200--201
 []\OT1/cmr/bx/n/12 Global Nav-i-ga-tion Satel-lite Sys-tem : \OT1/cmr/m/n/12 Lo
 -ca-tion based ser-vices, geo-referencing,
  []
 
-[7] <BisagProfile2.png, id=237, 458.46281pt x 305.64188pt>
+[7] <BisagProfile2.png, id=233, 458.46281pt x 305.64188pt>
 File: BisagProfile2.png Graphic file (type png)
 
 <use BisagProfile2.png>
@@ -404,7 +395,7 @@ Overfull \hbox (24.84169pt too wide) in paragraph at lines 226--226
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<BisagProfile3.png, id=238, 450.18187pt x 380.92313pt>
+<BisagProfile3.png, id=234, 450.18187pt x 380.92313pt>
 File: BisagProfile3.png Graphic file (type png)
  <use BisagProfile3.png>
 Package pdftex.def Info: BisagProfile3.png used on input line 239.
@@ -424,8 +415,8 @@ ed in-sti-tu-tional strength-en-ing through:
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <G:/DMLinux Docs/Report Format/BisagProfile2.png>] [10 <G:/DMLinux Docs/Repo
-rt Format/BisagProfile3.png>]
+[9 <C:/Users/Hitesh Piprotar/Desktop/Report/BisagProfile2.png>] [10 <C:/Users/H
+itesh Piprotar/Desktop/Report/BisagProfile3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 264--274
 
  []
@@ -447,7 +438,13 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--297
+Overfull \hbox (9.5011pt too wide) in paragraph at lines 280--299
+\OT1/cmr/m/n/12 We de-clare that fi-nal semester re-port en-ti-tled \OT1/cmr/bx
+/n/12 DE-VEL-OP-MENT OF GNU/LINUX
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--299
 
  []
 
@@ -456,120 +453,131 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
  [14]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-) [15] ("G:\DMLinux Docs\Report Format\main.toc" [16
+Missing character: There is no í in font cmr12!
+) [15]
 
-])
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
 \tf@toc=\write5
- [17]
-("G:\DMLinux Docs\Report Format\main.lot")
-\tf@lot=\write6
- [18
+[16
 
 ]
-("G:\DMLinux Docs\Report Format\main.lof" [19
 
-])
+Package hyperref Warning: old lot file detected, not used; run LaTeX again.
+
+\tf@lot=\write6
+[17
+
+]
+
+Package hyperref Warning: old lof file detected, not used; run LaTeX again.
+
 \tf@lof=\write7
- [1]
-("G:\DMLinux Docs\Report Format\Introduction.tex"
+[1
+
+] ("C:\Users\Hitesh Piprotar\Desktop\Report\Introduction.tex"
 Chapter 1.
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+Missing character: There is no í in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
 [2
 
 
 ]
-LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 23.
- [3] [4] [5]
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ù in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ù in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ù in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ì in font cmbx12!
- [6] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 130--141
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
-[9] <ProjectPlan1.png, id=462, 417.05812pt x 334.24875pt>
-File: ProjectPlan1.png Graphic file (type png)
+Missing character: There is no í in font cmr12!
+Missing character: There is no í in font cmr12!
+[3]
+Overfull \hbox (19.63376pt too wide) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/12 This mod-ule con-tains all core files means Ker-nel,device dr
+ivers,network
+ []
 
-<use ProjectPlan1.png>
-Package pdftex.def Info: ProjectPlan1.png used on input line 146.
-(pdftex.def)             Requested size: 354.50107pt x 284.11276pt.
- <ProjectPlan2.png, id=463, 458.46281pt x 331.2375pt>
-File: ProjectPlan2.png Graphic file (type png)
+[4] [5]
+Overfull \hbox (19.63376pt too wide) in paragraph at lines 125--128
+[]\OT1/cmr/m/n/12 This mod-ule con-tains all core files means Ker-nel,device dr
+ivers,network
+ []
 
-<use ProjectPlan2.png>
-Package pdftex.def Info: ProjectPlan2.png used on input line 153.
-(pdftex.def)             Requested size: 366.77074pt x 264.99034pt.
+[6] [7] [8] <gantt1.png, id=328, 647.41875pt x 314.17375pt>
+File: gantt1.png Graphic file (type png)
+ <use gantt1.png>
+Package pdftex.def Info: gantt1.png used on input line 228.
+(pdftex.def)             Requested size: 388.45424pt x 188.50569pt.
+
+<gantt2.png, id=329, 959.585pt x 248.93pt>
+File: gantt2.png Graphic file (type png)
+ <use gantt2.png>
+Package pdftex.def Info: gantt2.png used on input line 235.
+(pdftex.def)             Requested size: 383.8272pt x 99.57022pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10 <G:/DMLinux Docs/Report Format/ProjectPlan1.png>] [11 <G:/DMLinux Docs/Repo
-rt Format/ProjectPlan2.png>]
+[9 <C:/Users/Hitesh Piprotar/Desktop/Report/gantt1.png>] [10 <C:/Users/Hitesh P
+iprotar/Desktop/Report/gantt2.png>]
 Chapter 2.
-[12
+[11
 
-] [13]
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ô in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ô in font cmbx12!
- [14]
-Underfull \vbox (badness 8075) has occurred while \output is active []
-
- [15]
-[16]
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ô in font cmbx12!
- [17] [18] <DataFlow.png, id=513, 930.47626pt x 764.8575pt>
+] [12]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [13] [14]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [15] [16] <DataFlow.png, id=375, 930.47626pt x 764.8575pt>
 File: DataFlow.png Graphic file (type png)
 
 <use DataFlow.png>
-Package pdftex.def Info: DataFlow.png used on input line 287.
+Package pdftex.def Info: DataFlow.png used on input line 369.
 (pdftex.def)             Requested size: 400.09698pt x 328.88231pt.
-) [19 <G:/DMLinux Docs/Report Format/DataFlow.png>]
-("G:\DMLinux Docs\Report Format\Usecase.tex"
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [17] [18 <C:/Users/Hitesh Piprotar/Desktop/Report/DataFlow.png>]
+("C:\Users\Hitesh Piprotar\Desktop\Report\Usecase.tex"
 Chapter 3.
-<Navigation.jpg, id=519, 473.51906pt x 374.90062pt>
+<Navigation.jpg, id=387, 473.51906pt x 374.90062pt>
 File: Navigation.jpg Graphic file (type jpg)
  <use Navigation.jpg>
 Package pdftex.def Info: Navigation.jpg used on input line 5.
 (pdftex.def)             Requested size: 378.81575pt x 299.9209pt.
 
-<addremove.jpg, id=520, 443.40656pt x 417.81094pt>
+<addremove.jpg, id=388, 443.40656pt x 417.81094pt>
 File: addremove.jpg Graphic file (type jpg)
  <use addremove.jpg>
 Package pdftex.def Info: addremove.jpg used on input line 12.
@@ -578,7 +586,7 @@ Package pdftex.def Info: addremove.jpg used on input line 12.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Print.jpg, id=521, 488.57532pt x 452.4403pt>
+<Print.jpg, id=389, 488.57532pt x 452.4403pt>
 File: Print.jpg Graphic file (type jpg)
  <use Print.jpg>
 Package pdftex.def Info: Print.jpg used on input line 19.
@@ -587,7 +595,7 @@ Package pdftex.def Info: Print.jpg used on input line 19.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Measure.jpg, id=522, 414.79968pt x 386.94562pt>
+<Measure.jpg, id=390, 414.79968pt x 386.94562pt>
 File: Measure.jpg Graphic file (type jpg)
  <use Measure.jpg>
 Package pdftex.def Info: Measure.jpg used on input line 26.
@@ -596,7 +604,7 @@ Package pdftex.def Info: Measure.jpg used on input line 26.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Selection.jpg, id=523, 427.5975pt x 369.63094pt>
+<Selection.jpg, id=391, 427.5975pt x 369.63094pt>
 File: Selection.jpg Graphic file (type jpg)
  <use Selection.jpg>
 Package pdftex.def Info: Selection.jpg used on input line 33.
@@ -605,37 +613,38 @@ Package pdftex.def Info: Selection.jpg used on input line 33.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [20
+) [19
 
 
 
- <G:/DMLinux Docs/Report Format/Navigation.jpg>] [21 <G:/DMLinux Docs/Report Fo
-rmat/addremove.jpg>] [22 <G:/DMLinux Docs/Report Format/Print.jpg>]
-[23 <G:/DMLinux Docs/Report Format/Measure.jpg>] [24 <G:/DMLinux Docs/Report Fo
-rmat/Selection.jpg>] ("G:\DMLinux Docs\Report Format\classdiagrams.tex"
+ <C:/Users/Hitesh Piprotar/Desktop/Report/Navigation.jpg>] [20 <C:/Users/Hitesh
+ Piprotar/Desktop/Report/addremove.jpg>] [21 <C:/Users/Hitesh Piprotar/Desktop/
+Report/Print.jpg>] [22 <C:/Users/Hitesh Piprotar/Desktop/Report/Measure.jpg>] [
+23 <C:/Users/Hitesh Piprotar/Desktop/Report/Selection.jpg>]
+("C:\Users\Hitesh Piprotar\Desktop\Report\classdiagrams.tex"
 Chapter 4.
-<Class.jpg, id=545, 476.53032pt x 358.33875pt>
+<Class.jpg, id=418, 476.53032pt x 358.33875pt>
 File: Class.jpg Graphic file (type jpg)
  <use Class.jpg>
 Package pdftex.def Info: Class.jpg used on input line 8.
 (pdftex.def)             Requested size: 381.22478pt x 286.67139pt.
- [25
+ [24
 
 
 
- <G:/DMLinux Docs/Report Format/Class.jpg>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+ <C:/Users/Hitesh Piprotar/Desktop/Report/Class.jpg>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [26] [27] [28] ("G:\DMLinux Docs\Report Format\usermanual.tex"
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [25] [26] ("C:\Users\Hitesh Piprotar\Desktop\Report\usermanual.tex"
 Chapter 5.
-<1.jpg, id=562, 1028.34187pt x 578.16pt>
+<1.jpg, id=440, 1028.34187pt x 578.16pt>
 File: 1.jpg Graphic file (type jpg)
  <use 1.jpg>
 Package pdftex.def Info: 1.jpg used on input line 6.
@@ -645,12 +654,12 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 6--7
  [] 
  []
 
-[29
+[27
 
 
 
- <G:/DMLinux Docs/Report Format/1.jpg>]
-<2.jpg, id=567, 1028.34187pt x 578.16pt>
+ <C:/Users/Hitesh Piprotar/Desktop/Report/1.jpg>]
+<2.jpg, id=446, 1028.34187pt x 578.16pt>
 File: 2.jpg Graphic file (type jpg)
  <use 2.jpg>
 Package pdftex.def Info: 2.jpg used on input line 16.
@@ -660,14 +669,14 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 16--17
  [] 
  []
 
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ù in font cmbx12!
-[30 <G:/DMLinux Docs/Report Format/2.jpg>]
-<3.jpg, id=573, 1028.34187pt x 578.16pt>
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[28 <C:/Users/Hitesh Piprotar/Desktop/Report/2.jpg>]
+<3.jpg, id=452, 1028.34187pt x 578.16pt>
 File: 3.jpg Graphic file (type jpg)
  <use 3.jpg>
 Package pdftex.def Info: 3.jpg used on input line 26.
@@ -677,8 +686,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 26--27
  [] 
  []
 
-[31 <G:/DMLinux Docs/Report Format/3.jpg>]
-<4.jpg, id=578, 1028.34187pt x 578.16pt>
+[29 <C:/Users/Hitesh Piprotar/Desktop/Report/3.jpg>]
+<4.jpg, id=458, 1028.34187pt x 578.16pt>
 File: 4.jpg Graphic file (type jpg)
  <use 4.jpg>
 Package pdftex.def Info: 4.jpg used on input line 38.
@@ -688,8 +697,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 38--39
  [] 
  []
 
-[32 <G:/DMLinux Docs/Report Format/4.jpg>]
-<5.jpg, id=583, 1028.34187pt x 578.16pt>
+[30 <C:/Users/Hitesh Piprotar/Desktop/Report/4.jpg>]
+<5.jpg, id=464, 1028.34187pt x 578.16pt>
 File: 5.jpg Graphic file (type jpg)
  <use 5.jpg>
 Package pdftex.def Info: 5.jpg used on input line 48.
@@ -699,14 +708,14 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 48--49
  [] 
  []
 
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ô in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ô in font cmbx12!
-[33 <G:/DMLinux Docs/Report Format/5.jpg>]
-<6.jpg, id=588, 1028.34187pt x 578.16pt>
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[31 <C:/Users/Hitesh Piprotar/Desktop/Report/5.jpg>]
+<6.jpg, id=470, 1028.34187pt x 578.16pt>
 File: 6.jpg Graphic file (type jpg)
  <use 6.jpg>
 Package pdftex.def Info: 6.jpg used on input line 58.
@@ -716,8 +725,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 58--59
  [] 
  []
 
-[34 <G:/DMLinux Docs/Report Format/6.jpg>]
-<7.jpg, id=593, 1028.34187pt x 578.16pt>
+[32 <C:/Users/Hitesh Piprotar/Desktop/Report/6.jpg>]
+<7.jpg, id=477, 1028.34187pt x 578.16pt>
 File: 7.jpg Graphic file (type jpg)
  <use 7.jpg>
 Package pdftex.def Info: 7.jpg used on input line 68.
@@ -727,8 +736,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 68--69
  [] 
  []
 
-[35 <G:/DMLinux Docs/Report Format/7.jpg>]
-<8.jpg, id=598, 1028.34187pt x 578.16pt>
+[33 <C:/Users/Hitesh Piprotar/Desktop/Report/7.jpg>]
+<8.jpg, id=483, 1028.34187pt x 578.16pt>
 File: 8.jpg Graphic file (type jpg)
  <use 8.jpg>
 Package pdftex.def Info: 8.jpg used on input line 79.
@@ -738,8 +747,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 79--80
  [] 
  []
 
-[36 <G:/DMLinux Docs/Report Format/8.jpg>]
-<9.jpg, id=604, 1028.34187pt x 578.16pt>
+[34 <C:/Users/Hitesh Piprotar/Desktop/Report/8.jpg>]
+<9.jpg, id=489, 1028.34187pt x 578.16pt>
 File: 9.jpg Graphic file (type jpg)
  <use 9.jpg>
 Package pdftex.def Info: 9.jpg used on input line 88.
@@ -749,8 +758,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 88--89
  [] 
  []
 
-[37 <G:/DMLinux Docs/Report Format/9.jpg>]
-<10.jpg, id=609, 1028.34187pt x 578.16pt>
+[35 <C:/Users/Hitesh Piprotar/Desktop/Report/9.jpg>]
+<10.jpg, id=495, 1028.34187pt x 578.16pt>
 File: 10.jpg Graphic file (type jpg)
  <use 10.jpg>
 Package pdftex.def Info: 10.jpg used on input line 96.
@@ -760,8 +769,14 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 96--97
  [] 
  []
 
-[38 <G:/DMLinux Docs/Report Format/10.jpg>]
-<11.jpg, id=614, 1028.34187pt x 578.16pt>
+
+Overfull \hbox (31.85437pt too wide) in paragraph at lines 100--101
+[]\OT1/cmr/m/n/12 Description: Above it is seen that the user can save the file
+ as Im-age.(Jpeg,Tiff,Bmp,Png)
+ []
+
+[36 <C:/Users/Hitesh Piprotar/Desktop/Report/10.jpg>]
+<11.jpg, id=501, 1028.34187pt x 578.16pt>
 File: 11.jpg Graphic file (type jpg)
  <use 11.jpg>
 Package pdftex.def Info: 11.jpg used on input line 107.
@@ -771,8 +786,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 107--108
  [] 
  []
 
-[39 <G:/DMLinux Docs/Report Format/11.jpg>]
-<12.jpg, id=619, 1028.34187pt x 578.16pt>
+[37 <C:/Users/Hitesh Piprotar/Desktop/Report/11.jpg>]
+<12.jpg, id=507, 1028.34187pt x 578.16pt>
 File: 12.jpg Graphic file (type jpg)
  <use 12.jpg>
 Package pdftex.def Info: 12.jpg used on input line 117.
@@ -782,8 +797,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 117--118
  [] 
  []
 
-[40 <G:/DMLinux Docs/Report Format/12.jpg>]
-<13.jpg, id=624, 1028.34187pt x 578.16pt>
+[38 <C:/Users/Hitesh Piprotar/Desktop/Report/12.jpg>]
+<13.jpg, id=514, 1028.34187pt x 578.16pt>
 File: 13.jpg Graphic file (type jpg)
  <use 13.jpg>
 Package pdftex.def Info: 13.jpg used on input line 130.
@@ -793,8 +808,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 130--131
  [] 
  []
 
-[41 <G:/DMLinux Docs/Report Format/13.jpg>]
-<14.jpg, id=629, 1028.34187pt x 578.16pt>
+[39 <C:/Users/Hitesh Piprotar/Desktop/Report/13.jpg>]
+<14.jpg, id=520, 1028.34187pt x 578.16pt>
 File: 14.jpg Graphic file (type jpg)
  <use 14.jpg>
 Package pdftex.def Info: 14.jpg used on input line 140.
@@ -804,8 +819,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 140--141
  [] 
  []
 
-[42 <G:/DMLinux Docs/Report Format/14.jpg>]
-<15.jpg, id=635, 1028.34187pt x 578.16pt>
+[40 <C:/Users/Hitesh Piprotar/Desktop/Report/14.jpg>]
+<15.jpg, id=526, 1028.34187pt x 578.16pt>
 File: 15.jpg Graphic file (type jpg)
  <use 15.jpg>
 Package pdftex.def Info: 15.jpg used on input line 150.
@@ -815,8 +830,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 150--151
  [] 
  []
 
-[43 <G:/DMLinux Docs/Report Format/15.jpg>]
-<16.jpg, id=640, 1028.34187pt x 578.16pt>
+[41 <C:/Users/Hitesh Piprotar/Desktop/Report/15.jpg>]
+<16.jpg, id=532, 1028.34187pt x 578.16pt>
 File: 16.jpg Graphic file (type jpg)
  <use 16.jpg>
 Package pdftex.def Info: 16.jpg used on input line 160.
@@ -826,8 +841,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 160--161
  [] 
  []
 
-[44 <G:/DMLinux Docs/Report Format/16.jpg>]
-<17.jpg, id=645, 1028.34187pt x 578.16pt>
+[42 <C:/Users/Hitesh Piprotar/Desktop/Report/16.jpg>]
+<17.jpg, id=538, 1028.34187pt x 578.16pt>
 File: 17.jpg Graphic file (type jpg)
  <use 17.jpg>
 Package pdftex.def Info: 17.jpg used on input line 170.
@@ -837,14 +852,14 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 170--171
  [] 
  []
 
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ù in font cmbx12!
-[45 <G:/DMLinux Docs/Report Format/17.jpg>]
-<18.jpg, id=650, 1028.34187pt x 578.16pt>
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[43 <C:/Users/Hitesh Piprotar/Desktop/Report/17.jpg>]
+<18.jpg, id=544, 1028.34187pt x 578.16pt>
 File: 18.jpg Graphic file (type jpg)
  <use 18.jpg>
 Package pdftex.def Info: 18.jpg used on input line 180.
@@ -854,8 +869,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 180--181
  [] 
  []
 
-[46 <G:/DMLinux Docs/Report Format/18.jpg>]
-<19.jpg, id=655, 1028.34187pt x 578.16pt>
+[44 <C:/Users/Hitesh Piprotar/Desktop/Report/18.jpg>]
+<19.jpg, id=551, 1028.34187pt x 578.16pt>
 File: 19.jpg Graphic file (type jpg)
  <use 19.jpg>
 Package pdftex.def Info: 19.jpg used on input line 189.
@@ -865,8 +880,8 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 189--190
  [] 
  []
 
-[47 <G:/DMLinux Docs/Report Format/19.jpg>]
-<20.jpg, id=660, 1028.34187pt x 578.16pt>
+[45 <C:/Users/Hitesh Piprotar/Desktop/Report/19.jpg>]
+<20.jpg, id=557, 1028.34187pt x 578.16pt>
 File: 20.jpg Graphic file (type jpg)
  <use 20.jpg>
 Package pdftex.def Info: 20.jpg used on input line 199.
@@ -876,109 +891,104 @@ Overfull \hbox (8.5584pt too wide) in paragraph at lines 199--200
  [] 
  []
 
-) [48 <G:/DMLinux Docs/Report Format/20.jpg>]
-("G:\DMLinux Docs\Report Format\ch4.tex"
+) [46 <C:/Users/Hitesh Piprotar/Desktop/Report/20.jpg>]
+("C:\Users\Hitesh Piprotar\Desktop\Report\ch4.tex"
 Chapter 6.
 
-Underfull \hbox (badness 1902) in paragraph at lines 5--6
-[]\OT1/cmr/bx/n/12 Obtained Ex-
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/12 Obtained Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]\OT1/cmr/bx/n/12 Successfully load the
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+\OT1/cmr/m/n/12 pected Re-sults
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-[]\OT1/cmr/bx/n/12 Successfully ren-der
+Underfull \hbox (badness 7759) in paragraph at lines 9--9
+[]\OT1/cmr/m/n/12 Successfully ren-der Geo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-\OT1/cmr/bx/n/12 Geo-referenced Raster
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]\OT1/cmr/m/n/12 Load non-georeferenced
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 15--15
-\OT1/cmr/bx/n/12 ters is prompted in
+Underfull \hbox (badness 6792) in paragraph at lines 11--11
+[]\OT1/cmr/m/n/12 Nothing is dis-played in
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 17--17
-[]\OT1/cmr/bx/n/12 The at-tribute ta-ble is
+Underfull \hbox (badness 2529) in paragraph at lines 13--13
+\OT1/cmr/m/n/12 Map with dif-fer-ent color
  []
 
 
-Overfull \hbox (28.0853pt too wide) in paragraph at lines 3--22
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]\OT1/cmr/m/n/12 Query per-form on At-
+ []
+
+
+Overfull \hbox (21.79599pt too wide) in paragraph at lines 3--22
 [][] 
  []
 
+[47
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 Obtained Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+\OT1/cmr/m/n/12 pected Re-sults
+ []
+
+
+Overfull \hbox (21.79599pt too wide) in paragraph at lines 25--38
+[][] 
+ []
+
+[48]
+Chapter 7.
 [49
 
-
-
 ]
-Underfull \hbox (badness 1902) in paragraph at lines 27--28
-[]\OT1/cmr/bx/n/12 Obtained Ex-
- []
-
-
-Underfull \hbox (badness 1708) in paragraph at lines 29--29
-[]\OT1/cmr/bx/n/12 Prompt for op-tion to
- []
-
-
-Underfull \hbox (badness 3088) in paragraph at lines 29--29
-\OT1/cmr/bx/n/12 save file in lo-cal di-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-\OT1/cmr/bx/n/12 save the re-pro-jected
- []
-
-
-Overfull \hbox (28.0853pt too wide) in paragraph at lines 25--38
-[][] 
- []
-
-[50]
-Chapter 7.
-[51
-
-]
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ô in font cmbx12!
- [52]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [50]
 Chapter 8.
 
-Underfull \vbox (badness 1264) has occurred while \output is active []
+Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [53
+ [51
 
 ]
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ù in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ù in font cmbx12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
 
-<codedistribution.jpg, id=687, 459.21562pt x 236.38312pt>
+<codedistribution.jpg, id=586, 459.21562pt x 236.38312pt>
 File: codedistribution.jpg Graphic file (type jpg)
 
 <use codedistribution.jpg>
@@ -988,51 +998,57 @@ Package pdftex.def Info: codedistribution.jpg used on input line 94.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ú in font cmbx12!
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ù in font cmbx12!
-[54] [55 <G:/DMLinux Docs/Report Format/codedistribution.jpg>] [56] [57]
-[58]
-Chapter 9.
-) [59
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[52]
+Underfull \vbox (badness 5388) has occurred while \output is active []
 
-] [60]
+ [53 <C:/Users/Hitesh Piprotar/Desktop/Report/codedistribution.jpg>] [54] [55] 
+[56]
+Chapter 9.
+) [57
+
+] [58]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
- [61
+ [59
 
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
- ("G:\DMLinux Docs\Report Format\main.aux"
-("G:\DMLinux Docs\Report Format\Introduction.aux")
-("G:\DMLinux Docs\Report Format\Usecase.aux")
-("G:\DMLinux Docs\Report Format\classdiagrams.aux")
-("G:\DMLinux Docs\Report Format\usermanual.aux")
-("G:\DMLinux Docs\Report Format\ch4.aux"))
+ ("C:\Users\Hitesh Piprotar\Desktop\Report\main.aux"
+("C:\Users\Hitesh Piprotar\Desktop\Report\Introduction.aux")
+("C:\Users\Hitesh Piprotar\Desktop\Report\Usecase.aux")
+("C:\Users\Hitesh Piprotar\Desktop\Report\classdiagrams.aux")
+("C:\Users\Hitesh Piprotar\Desktop\Report\usermanual.aux")
+("C:\Users\Hitesh Piprotar\Desktop\Report\ch4.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 37869B22651D3C302F8E74311C5F3763;3049.
+(rerunfilecheck)             Checksum: AAB849ED1BE49ABD892DADDC4CE74815;2968.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 5940 strings out of 494045
- 85154 string characters out of 3148384
- 173242 words of memory out of 3000000
- 8900 multiletter control sequences out of 15000+200000
- 11622 words of font info for 43 fonts, out of 3000000 for 9000
+ 5924 strings out of 494045
+ 84790 string characters out of 3148357
+ 170173 words of memory out of 3000000
+ 8894 multiletter control sequences out of 15000+200000
+ 11367 words of font info for 42 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 29i,9n,30p,823b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (80 pages, 5661302 bytes).
+ 29i,9n,30p,823b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (76 pages, 5622363 bytes).
 PDF statistics:
- 803 PDF objects out of 1000 (max. 8388607)
- 198 named destinations out of 1000 (max. 500000)
- 570 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 701 PDF objects out of 1000 (max. 8388607)
+ 205 named destinations out of 1000 (max. 500000)
+ 562 words of extra memory for PDF output out of 10000 (max. 10000000)
 
