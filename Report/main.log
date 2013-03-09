@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.27)  4 MAR 2013 12:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.8)  9 MAR 2013 22:37
 entering extended mode
 **main.tex
-("C:\Users\Hitesh Piprotar\Desktop\Report\main.tex"
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\main.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -86,7 +86,7 @@ Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-("C:\Users\Hitesh Piprotar\Desktop\Report\rotating.sty"
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\rotating.sty"
 Package: rotating 1995/08/22 2.10 Rotation package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
@@ -104,7 +104,7 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen105
 \epsfysize=\dimen106
 )
-("C:\Users\Hitesh Piprotar\Desktop\Report\algorithms.sty"
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\algorithms.sty"
 \c@algorithm=\count90
 \c@algorithmline=\count91
 \linelabelwidth=\skip46
@@ -226,11 +226,15 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip53
 )
-("C:\Users\Hitesh Piprotar\Desktop\Report\setspace.sty")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\setspace.sty")
 \@indexfile=\write3
 
 Writing index file main.idx
-("C:\Users\Hitesh Piprotar\Desktop\Report\main.aux")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\main.aux"
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\Introduction.aux")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\Usecase.aux")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\usermanual.aux")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\ch4.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
@@ -274,12 +278,12 @@ LaTeX Info: Redefining \ref on input line 42.
 LaTeX Info: Redefining \pageref on input line 42.
 LaTeX Info: Redefining \nameref on input line 42.
 
-("C:\Users\Hitesh Piprotar\Desktop\Report\main.out")
-("C:\Users\Hitesh Piprotar\Desktop\Report\main.out")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\main.out")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\main.out")
 \@outlinefile=\write4
 
-("C:\Users\Hitesh Piprotar\Desktop\Report\coverpages.tex"
-<Bisag.png, id=187, 202.50656pt x 117.43875pt>
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\coverpages.tex"
+<Bisag.png, id=211, 202.50656pt x 117.43875pt>
 File: Bisag.png Graphic file (type png)
  <use Bisag.png>
 Package pdftex.def Info: Bisag.png used on input line 15.
@@ -295,22 +299,21 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 26.
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 
-pdfTeX warning: pdflatex.exe (file C:/Users/Hitesh Piprotar/Desktop/Report/Nirm
-aLogo.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> a
-llowed
-<NirmaLogo.pdf, id=189, 172.645pt x 72.27pt>
+pdfTeX warning: pdflatex.exe (file C:/Users/Arpan Chavda/Documents/GitHub/docs/
+Report/NirmaLogo.pdf): PDF inclusion: found PDF version <1.6>, but at most vers
+ion <1.5> allowed
+<NirmaLogo.pdf, id=213, 172.645pt x 72.27pt>
 File: NirmaLogo.pdf Graphic file (type pdf)
  <use NirmaLogo.pdf>
 Package pdftex.def Info: NirmaLogo.pdf used on input line 45.
 (pdftex.def)             Requested size: 69.05676pt x 28.90747pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Hitesh Piprotar/
-Desktop/Report/Bisag.png> <C:/Users/Hitesh Piprotar/Desktop/Report/NirmaLogo.pd
-f>]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Arpan Chavda/Doc
+uments/GitHub/docs/Report/Bisag.png> <C:/Users/Arpan Chavda/Documents/GitHub/do
+cs/Report/NirmaLogo.pdf>]
 File: Bisag.png Graphic file (type png)
-
-<use Bisag.png>
+ <use Bisag.png>
 Package pdftex.def Info: Bisag.png used on input line 66.
 (pdftex.def)             Requested size: 91.12709pt x 52.84694pt.
 File: NirmaLogo.pdf Graphic file (type pdf)
@@ -318,7 +321,7 @@ File: NirmaLogo.pdf Graphic file (type pdf)
 Package pdftex.def Info: NirmaLogo.pdf used on input line 92.
 (pdftex.def)             Requested size: 69.05676pt x 28.90747pt.
  [2]
-<BisagLogo.png, id=203, 512.66531pt x 137.01187pt>
+<BisagLogo.png, id=227, 512.66531pt x 137.01187pt>
 File: BisagLogo.png Graphic file (type png)
  <use BisagLogo.png>
 Package pdftex.def Info: BisagLogo.png used on input line 106.
@@ -339,8 +342,8 @@ Overfull \hbox (0.73007pt too wide) in paragraph at lines 116--120
 cmr/bx/n/12 Mr Arpan Chavda(09bce006)
  []
 
-[3 <C:/Users/Hitesh Piprotar/Desktop/Report/BisagLogo.png>] [4]
-<Campus.png, id=213, 441.14813pt x 173.14688pt>
+[3 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/BisagLogo.png>] [4]
+<Campus.png, id=237, 441.14813pt x 173.14688pt>
 File: Campus.png Graphic file (type png)
  <use Campus.png>
 Package pdftex.def Info: Campus.png used on input line 170.
@@ -353,7 +356,7 @@ Overfull \hbox (7.52705pt too wide) in paragraph at lines 170--170
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-<BisagProfile1.png, id=214, 366.61969pt x 252.19218pt>
+<BisagProfile1.png, id=238, 366.61969pt x 252.19218pt>
 File: BisagProfile1.png Graphic file (type png)
  <use BisagProfile1.png>
 Package pdftex.def Info: BisagProfile1.png used on input line 183.
@@ -366,7 +369,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--190
 
  []
 
-[5 <C:/Users/Hitesh Piprotar/Desktop/Report/Campus.png>]
+[5 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/Campus.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 192.
 
 
@@ -375,13 +378,13 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 192.
- [6 <C:/Users/Hitesh Piprotar/Desktop/Report/BisagProfile1.png>]
+ [6 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/BisagProfile1.png>]
 Overfull \hbox (13.87614pt too wide) in paragraph at lines 200--201
 []\OT1/cmr/bx/n/12 Global Nav-i-ga-tion Satel-lite Sys-tem : \OT1/cmr/m/n/12 Lo
 -ca-tion based ser-vices, geo-referencing,
  []
 
-[7] <BisagProfile2.png, id=233, 458.46281pt x 305.64188pt>
+[7] <BisagProfile2.png, id=257, 458.46281pt x 305.64188pt>
 File: BisagProfile2.png Graphic file (type png)
 
 <use BisagProfile2.png>
@@ -395,7 +398,7 @@ Overfull \hbox (24.84169pt too wide) in paragraph at lines 226--226
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<BisagProfile3.png, id=234, 450.18187pt x 380.92313pt>
+<BisagProfile3.png, id=258, 450.18187pt x 380.92313pt>
 File: BisagProfile3.png Graphic file (type png)
  <use BisagProfile3.png>
 Package pdftex.def Info: BisagProfile3.png used on input line 239.
@@ -415,8 +418,8 @@ ed in-sti-tu-tional strength-en-ing through:
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <C:/Users/Hitesh Piprotar/Desktop/Report/BisagProfile2.png>] [10 <C:/Users/H
-itesh Piprotar/Desktop/Report/BisagProfile3.png>]
+[9 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/BisagProfile2.png>]
+[10 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/BisagProfile3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 264--274
 
  []
@@ -455,28 +458,22 @@ Missing character: There is no ù in font cmr12!
  [14]
 Missing character: There is no ù in font cmr12!
 Missing character: There is no í in font cmr12!
-) [15]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
-\tf@toc=\write5
+) [15] ("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\main.toc"
 [16
 
-]
-
-Package hyperref Warning: old lot file detected, not used; run LaTeX again.
-
+])
+\tf@toc=\write5
+ [17] ("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\main.lot")
 \tf@lot=\write6
-[17
 
-]
+[18
 
-Package hyperref Warning: old lof file detected, not used; run LaTeX again.
+] ("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\main.lof" [19
 
+])
 \tf@lof=\write7
-[1
 
-] ("C:\Users\Hitesh Piprotar\Desktop\Report\Introduction.tex"
+[1] ("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\Introduction.tex"
 Chapter 1.
 Missing character: There is no ù in font cmr12!
 
@@ -527,13 +524,13 @@ Overfull \hbox (19.63376pt too wide) in paragraph at lines 125--128
 ivers,network
  []
 
-[6] [7] [8] <gantt1.png, id=328, 647.41875pt x 314.17375pt>
+[6] [7] [8] <gantt1.png, id=491, 647.41875pt x 314.17375pt>
 File: gantt1.png Graphic file (type png)
  <use gantt1.png>
 Package pdftex.def Info: gantt1.png used on input line 228.
 (pdftex.def)             Requested size: 388.45424pt x 188.50569pt.
 
-<gantt2.png, id=329, 959.585pt x 248.93pt>
+<gantt2.png, id=492, 959.585pt x 248.93pt>
 File: gantt2.png Graphic file (type png)
  <use gantt2.png>
 Package pdftex.def Info: gantt2.png used on input line 235.
@@ -542,8 +539,8 @@ Package pdftex.def Info: gantt2.png used on input line 235.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <C:/Users/Hitesh Piprotar/Desktop/Report/gantt1.png>] [10 <C:/Users/Hitesh P
-iprotar/Desktop/Report/gantt2.png>]
+[9 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/gantt1.png>] [10 <C:/Use
+rs/Arpan Chavda/Documents/GitHub/docs/Report/gantt2.png>]
 Chapter 2.
 [11
 
@@ -558,341 +555,355 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [15] [16] <DataFlow.png, id=375, 930.47626pt x 764.8575pt>
-File: DataFlow.png Graphic file (type png)
-
-<use DataFlow.png>
-Package pdftex.def Info: DataFlow.png used on input line 369.
-(pdftex.def)             Requested size: 400.09698pt x 328.88231pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [17] [18 <C:/Users/Hitesh Piprotar/Desktop/Report/DataFlow.png>]
-("C:\Users\Hitesh Piprotar\Desktop\Report\Usecase.tex"
+ [15] [16]) [17]
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\Usecase.tex"
 Chapter 3.
-<Navigation.jpg, id=387, 473.51906pt x 374.90062pt>
-File: Navigation.jpg Graphic file (type jpg)
- <use Navigation.jpg>
-Package pdftex.def Info: Navigation.jpg used on input line 5.
-(pdftex.def)             Requested size: 378.81575pt x 299.9209pt.
+<core.png, id=541, 629.35126pt x 415.5525pt>
+File: core.png Graphic file (type png)
+ <use core.png>
+Package pdftex.def Info: core.png used on input line 5.
+(pdftex.def)             Requested size: 503.48169pt x 332.44244pt.
 
-<addremove.jpg, id=388, 443.40656pt x 417.81094pt>
-File: addremove.jpg Graphic file (type jpg)
- <use addremove.jpg>
-Package pdftex.def Info: addremove.jpg used on input line 12.
-(pdftex.def)             Requested size: 354.72572pt x 334.2492pt.
+Overfull \hbox (69.8617pt too wide) in paragraph at lines 5--6
+ [] 
+ []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Print.jpg, id=389, 488.57532pt x 452.4403pt>
-File: Print.jpg Graphic file (type jpg)
- <use Print.jpg>
-Package pdftex.def Info: Print.jpg used on input line 19.
-(pdftex.def)             Requested size: 390.86078pt x 361.95274pt.
+<dir.jpg, id=542, 586.19pt x 475.7775pt>
+File: dir.jpg Graphic file (type jpg)
+ <use dir.jpg>
+Package pdftex.def Info: dir.jpg used on input line 12.
+(pdftex.def)             Requested size: 322.40549pt x 261.67842pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Measure.jpg, id=390, 414.79968pt x 386.94562pt>
-File: Measure.jpg Graphic file (type jpg)
- <use Measure.jpg>
-Package pdftex.def Info: Measure.jpg used on input line 26.
-(pdftex.def)             Requested size: 290.3578pt x 270.86008pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Selection.jpg, id=391, 427.5975pt x 369.63094pt>
-File: Selection.jpg Graphic file (type jpg)
- <use Selection.jpg>
-Package pdftex.def Info: Selection.jpg used on input line 33.
-(pdftex.def)             Requested size: 299.31621pt x 258.73988pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [19
+[18
 
 
 
- <C:/Users/Hitesh Piprotar/Desktop/Report/Navigation.jpg>] [20 <C:/Users/Hitesh
- Piprotar/Desktop/Report/addremove.jpg>] [21 <C:/Users/Hitesh Piprotar/Desktop/
-Report/Print.jpg>] [22 <C:/Users/Hitesh Piprotar/Desktop/Report/Measure.jpg>] [
-23 <C:/Users/Hitesh Piprotar/Desktop/Report/Selection.jpg>]
-("C:\Users\Hitesh Piprotar\Desktop\Report\classdiagrams.tex"
+ <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/core.png>] [19 <C:/Users/A
+rpan Chavda/Documents/GitHub/docs/Report/dir.jpg>]
 Chapter 4.
-<Class.jpg, id=418, 476.53032pt x 358.33875pt>
-File: Class.jpg Graphic file (type jpg)
- <use Class.jpg>
-Package pdftex.def Info: Class.jpg used on input line 8.
-(pdftex.def)             Requested size: 381.22478pt x 286.67139pt.
- [24
-
-
-
- <C:/Users/Hitesh Piprotar/Desktop/Report/Class.jpg>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+<aoutil.png, id=552, 427.5975pt x 642.90187pt>
+File: aoutil.png Graphic file (type png)
+ <use aoutil.png>
+Package pdftex.def Info: aoutil.png used on input line 28.
+(pdftex.def)             Requested size: 342.07846pt x 514.32219pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[20
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [25] [26] ("C:\Users\Hitesh Piprotar\Desktop\Report\usermanual.tex"
+] [21]) [22] [23 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/aoutil.png
+>] ("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\usermanual.tex"
 Chapter 5.
-<1.jpg, id=440, 1028.34187pt x 578.16pt>
-File: 1.jpg Graphic file (type jpg)
- <use 1.jpg>
-Package pdftex.def Info: 1.jpg used on input line 6.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+<1.png, id=575, 1371.1225pt x 770.88pt>
+File: 1.png Graphic file (type png)
+ <use 1.png>
+Package pdftex.def Info: 1.png used on input line 6.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 6--7
- [] 
- []
-
-[27
-
-
-
- <C:/Users/Hitesh Piprotar/Desktop/Report/1.jpg>]
-<2.jpg, id=446, 1028.34187pt x 578.16pt>
-File: 2.jpg Graphic file (type jpg)
- <use 2.jpg>
-Package pdftex.def Info: 2.jpg used on input line 16.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 16--17
- [] 
- []
-
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-[28 <C:/Users/Hitesh Piprotar/Desktop/Report/2.jpg>]
-<3.jpg, id=452, 1028.34187pt x 578.16pt>
-File: 3.jpg Graphic file (type jpg)
- <use 3.jpg>
-Package pdftex.def Info: 3.jpg used on input line 26.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 26--27
- [] 
- []
-
-[29 <C:/Users/Hitesh Piprotar/Desktop/Report/3.jpg>]
-<4.jpg, id=458, 1028.34187pt x 578.16pt>
-File: 4.jpg Graphic file (type jpg)
- <use 4.jpg>
-Package pdftex.def Info: 4.jpg used on input line 38.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 38--39
- [] 
- []
-
-[30 <C:/Users/Hitesh Piprotar/Desktop/Report/4.jpg>]
-<5.jpg, id=464, 1028.34187pt x 578.16pt>
-File: 5.jpg Graphic file (type jpg)
- <use 5.jpg>
-Package pdftex.def Info: 5.jpg used on input line 48.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 48--49
- [] 
- []
-
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-[31 <C:/Users/Hitesh Piprotar/Desktop/Report/5.jpg>]
-<6.jpg, id=470, 1028.34187pt x 578.16pt>
-File: 6.jpg Graphic file (type jpg)
- <use 6.jpg>
-Package pdftex.def Info: 6.jpg used on input line 58.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 58--59
- [] 
- []
-
-[32 <C:/Users/Hitesh Piprotar/Desktop/Report/6.jpg>]
-<7.jpg, id=477, 1028.34187pt x 578.16pt>
-File: 7.jpg Graphic file (type jpg)
- <use 7.jpg>
-Package pdftex.def Info: 7.jpg used on input line 68.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 68--69
- [] 
- []
-
-[33 <C:/Users/Hitesh Piprotar/Desktop/Report/7.jpg>]
-<8.jpg, id=483, 1028.34187pt x 578.16pt>
-File: 8.jpg Graphic file (type jpg)
- <use 8.jpg>
-Package pdftex.def Info: 8.jpg used on input line 79.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 79--80
- [] 
- []
-
-[34 <C:/Users/Hitesh Piprotar/Desktop/Report/8.jpg>]
-<9.jpg, id=489, 1028.34187pt x 578.16pt>
-File: 9.jpg Graphic file (type jpg)
- <use 9.jpg>
-Package pdftex.def Info: 9.jpg used on input line 88.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 88--89
- [] 
- []
-
-[35 <C:/Users/Hitesh Piprotar/Desktop/Report/9.jpg>]
-<10.jpg, id=495, 1028.34187pt x 578.16pt>
-File: 10.jpg Graphic file (type jpg)
- <use 10.jpg>
-Package pdftex.def Info: 10.jpg used on input line 96.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
-
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 96--97
+Overfull \hbox (46.28008pt too wide) in paragraph at lines 6--7
  [] 
  []
 
 
-Overfull \hbox (31.85437pt too wide) in paragraph at lines 100--101
-[]\OT1/cmr/m/n/12 Description: Above it is seen that the user can save the file
- as Im-age.(Jpeg,Tiff,Bmp,Png)
+Overfull \hbox (11.78238pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/m/n/12 Description: Above is the Desk-top of DM-Linux Op-er-at-ing s
+ys-tem.It fea-ture GNOME
  []
 
-[36 <C:/Users/Hitesh Piprotar/Desktop/Report/10.jpg>]
-<11.jpg, id=501, 1028.34187pt x 578.16pt>
-File: 11.jpg Graphic file (type jpg)
- <use 11.jpg>
-Package pdftex.def Info: 11.jpg used on input line 107.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[24
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 107--108
+
+
+ <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/1.png>]
+<2.png, id=581, 1371.1225pt x 770.88pt>
+File: 2.png Graphic file (type png)
+ <use 2.png>
+Package pdftex.def Info: 2.png used on input line 16.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+Overfull \hbox (46.28008pt too wide) in paragraph at lines 16--17
  [] 
  []
 
-[37 <C:/Users/Hitesh Piprotar/Desktop/Report/11.jpg>]
-<12.jpg, id=507, 1028.34187pt x 578.16pt>
-File: 12.jpg Graphic file (type jpg)
- <use 12.jpg>
-Package pdftex.def Info: 12.jpg used on input line 117.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[25 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/2.png>]
+<3.png, id=586, 1371.1225pt x 770.88pt>
+File: 3.png Graphic file (type png)
+ <use 3.png>
+Package pdftex.def Info: 3.png used on input line 26.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 117--118
+Overfull \hbox (46.28008pt too wide) in paragraph at lines 26--27
  [] 
  []
 
-[38 <C:/Users/Hitesh Piprotar/Desktop/Report/12.jpg>]
-<13.jpg, id=514, 1028.34187pt x 578.16pt>
-File: 13.jpg Graphic file (type jpg)
- <use 13.jpg>
-Package pdftex.def Info: 13.jpg used on input line 130.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[26 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/3.png>]
+<4.png, id=591, 797.98125pt x 588.1975pt>
+File: 4.png Graphic file (type png)
+ <use 4.png>
+Package pdftex.def Info: 4.png used on input line 38.
+(pdftex.def)             Requested size: 319.18684pt x 235.27483pt.
+ [27 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/4.png>]
+<5.png, id=596, 797.98125pt x 588.1975pt>
+File: 5.png Graphic file (type png)
+ <use 5.png>
+Package pdftex.def Info: 5.png used on input line 48.
+(pdftex.def)             Requested size: 319.18684pt x 235.27483pt.
+ [28 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/5.png>] <6.png, id=601
+, 579.16376pt x 481.8pt>
+File: 6.png Graphic file (type png)
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 130--131
+<use 6.png>
+Package pdftex.def Info: 6.png used on input line 57.
+(pdftex.def)             Requested size: 231.66139pt x 192.71658pt.
+ [29 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/6.png>]
+<7.png, id=606, 783.92876pt x 500.87125pt>
+File: 7.png Graphic file (type png)
+ <use 7.png>
+Package pdftex.def Info: 7.png used on input line 67.
+(pdftex.def)             Requested size: 313.56595pt x 200.34494pt.
+ [30 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/7.png>]
+<8.png, id=612, 1371.1225pt x 770.88pt>
+File: 8.png Graphic file (type png)
+ <use 8.png>
+Package pdftex.def Info: 8.png used on input line 78.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+Overfull \hbox (46.28008pt too wide) in paragraph at lines 78--79
  [] 
  []
 
-[39 <C:/Users/Hitesh Piprotar/Desktop/Report/13.jpg>]
-<14.jpg, id=520, 1028.34187pt x 578.16pt>
-File: 14.jpg Graphic file (type jpg)
- <use 14.jpg>
-Package pdftex.def Info: 14.jpg used on input line 140.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[31 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/8.png>]
+<9.png, id=617, 738.76pt x 614.295pt>
+File: 9.png Graphic file (type png)
+ <use 9.png>
+Package pdftex.def Info: 9.png used on input line 87.
+(pdftex.def)             Requested size: 295.49875pt x 245.71364pt.
+ [32 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/9.png>] <10.png, id=62
+2, 1371.1225pt x 770.88pt>
+File: 10.png Graphic file (type png)
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 140--141
+<use 10.png>
+Package pdftex.def Info: 10.png used on input line 96.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+Overfull \hbox (46.28008pt too wide) in paragraph at lines 96--97
  [] 
  []
 
-[40 <C:/Users/Hitesh Piprotar/Desktop/Report/14.jpg>]
-<15.jpg, id=526, 1028.34187pt x 578.16pt>
-File: 15.jpg Graphic file (type jpg)
- <use 15.jpg>
-Package pdftex.def Info: 15.jpg used on input line 150.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[33 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/10.png>]
+<11.png, id=627, 1371.1225pt x 746.79pt>
+File: 11.png Graphic file (type png)
+ <use 11.png>
+Package pdftex.def Info: 11.png used on input line 107.
+(pdftex.def)             Requested size: 479.90007pt x 261.3804pt.
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 150--151
+Overfull \hbox (46.28008pt too wide) in paragraph at lines 107--108
  [] 
  []
 
-[41 <C:/Users/Hitesh Piprotar/Desktop/Report/15.jpg>]
-<16.jpg, id=532, 1028.34187pt x 578.16pt>
-File: 16.jpg Graphic file (type jpg)
- <use 16.jpg>
-Package pdftex.def Info: 16.jpg used on input line 160.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[34 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/11.png>]
+<12.png, id=632, 1371.1225pt x 770.88pt>
+File: 12.png Graphic file (type png)
+ <use 12.png>
+Package pdftex.def Info: 12.png used on input line 117.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 160--161
+Overfull \hbox (46.28008pt too wide) in paragraph at lines 117--118
  [] 
  []
 
-[42 <C:/Users/Hitesh Piprotar/Desktop/Report/16.jpg>]
-<17.jpg, id=538, 1028.34187pt x 578.16pt>
-File: 17.jpg Graphic file (type jpg)
- <use 17.jpg>
-Package pdftex.def Info: 17.jpg used on input line 170.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[35 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/12.png>]
+<13.png, id=637, 868.24374pt x 628.3475pt>
+File: 13.png Graphic file (type png)
+ <use 13.png>
+Package pdftex.def Info: 13.png used on input line 128.
+(pdftex.def)             Requested size: 347.29134pt x 251.33455pt.
+ [36 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/13.png>]
+<14.png, id=644, 1371.1225pt x 746.79pt>
+File: 14.png Graphic file (type png)
+ <use 14.png>
+Package pdftex.def Info: 14.png used on input line 138.
+(pdftex.def)             Requested size: 548.43929pt x 298.7107pt.
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 170--171
+Overfull \hbox (114.81929pt too wide) in paragraph at lines 138--139
  [] 
  []
 
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-[43 <C:/Users/Hitesh Piprotar/Desktop/Report/17.jpg>]
-<18.jpg, id=544, 1028.34187pt x 578.16pt>
-File: 18.jpg Graphic file (type jpg)
- <use 18.jpg>
-Package pdftex.def Info: 18.jpg used on input line 180.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[37 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/14.png>]
+<15.png, id=649, 1371.1225pt x 746.79pt>
+File: 15.png Graphic file (type png)
+ <use 15.png>
+Package pdftex.def Info: 15.png used on input line 148.
+(pdftex.def)             Requested size: 479.90007pt x 261.3804pt.
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 180--181
+Overfull \hbox (46.28008pt too wide) in paragraph at lines 148--149
  [] 
  []
 
-[44 <C:/Users/Hitesh Piprotar/Desktop/Report/18.jpg>]
-<19.jpg, id=551, 1028.34187pt x 578.16pt>
-File: 19.jpg Graphic file (type jpg)
- <use 19.jpg>
-Package pdftex.def Info: 19.jpg used on input line 189.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
+[38 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/15.png>]
+<16.png, id=654, 361.35pt x 602.25pt>
+File: 16.png Graphic file (type png)
+ <use 16.png>
+Package pdftex.def Info: 16.png used on input line 158.
+(pdftex.def)             Requested size: 242.10324pt x 403.5054pt.
+ [39 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/16.png>] <17.png, id=6
+59, 629.35126pt x 269.005pt>
+File: 17.png Graphic file (type png)
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 189--190
+<use 17.png>
+Package pdftex.def Info: 17.png used on input line 167.
+(pdftex.def)             Requested size: 409.07347pt x 174.85117pt.
+ <18.png, id=660, 303.1325pt x 226.8475pt>
+File: 18.png Graphic file (type png)
+ <use 18.png>
+Package pdftex.def Info: 18.png used on input line 175.
+(pdftex.def)             Requested size: 239.47205pt x 179.20755pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<19.png, id=661, 244.915pt x 303.1325pt>
+File: 19.png Graphic file (type png)
+ <use 19.png>
+Package pdftex.def Info: 19.png used on input line 184.
+(pdftex.def)             Requested size: 193.48071pt x 239.47205pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<20.png, id=662, 202.7575pt x 150.5625pt>
+File: 20.png Graphic file (type png)
+ <use 20.png>
+Package pdftex.def Info: 20.png used on input line 192.
+(pdftex.def)             Requested size: 200.73055pt x 149.05731pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<21.png, id=663, 202.7575pt x 150.5625pt>
+File: 21.png Graphic file (type png)
+ <use 21.png>
+Package pdftex.def Info: 21.png used on input line 199.
+(pdftex.def)             Requested size: 200.73055pt x 149.05731pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<22.png, id=664, 202.7575pt x 150.5625pt>
+File: 22.png Graphic file (type png)
+ <use 22.png>
+Package pdftex.def Info: 22.png used on input line 205.
+(pdftex.def)             Requested size: 200.73055pt x 149.05731pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<23.png, id=665, 644.4075pt x 269.005pt>
+File: 23.png Graphic file (type png)
+ <use 23.png>
+Package pdftex.def Info: 23.png used on input line 213.
+(pdftex.def)             Requested size: 444.64166pt x 185.61363pt.
+
+Overfull \hbox (11.02167pt too wide) in paragraph at lines 213--214
  [] 
  []
 
-[45 <C:/Users/Hitesh Piprotar/Desktop/Report/19.jpg>]
-<20.jpg, id=557, 1028.34187pt x 578.16pt>
-File: 20.jpg Graphic file (type jpg)
- <use 20.jpg>
-Package pdftex.def Info: 20.jpg used on input line 199.
-(pdftex.def)             Requested size: 442.17839pt x 248.60394pt.
 
-Overfull \hbox (8.5584pt too wide) in paragraph at lines 199--200
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<24.png, id=666, 403.5075pt x 233.87375pt>
+File: 24.png Graphic file (type png)
+ <use 24.png>
+Package pdftex.def Info: 24.png used on input line 221.
+(pdftex.def)             Requested size: 359.12054pt x 208.14696pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<25.png, id=667, 483.8075pt x 403.5075pt>
+File: 25.png Graphic file (type png)
+ <use 25.png>
+Package pdftex.def Info: 25.png used on input line 228.
+(pdftex.def)             Requested size: 430.58733pt x 359.12054pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<26.png, id=668, 440.64626pt x 573.14125pt>
+File: 26.png Graphic file (type png)
+ <use 26.png>
+Package pdftex.def Info: 26.png used on input line 235.
+(pdftex.def)             Requested size: 392.17392pt x 510.0941pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/17.png>]
+<27.png, id=673, 353.32pt x 207.77625pt>
+File: 27.png Graphic file (type png)
+ <use 27.png>
+Package pdftex.def Info: 27.png used on input line 243.
+(pdftex.def)             Requested size: 314.45381pt x 184.92026pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<28.png, id=674, 481.04718pt x 58.71938pt>
+File: 28.png Graphic file (type png)
+ <use 28.png>
+Package pdftex.def Info: 28.png used on input line 250.
+(pdftex.def)             Requested size: 331.92291pt x 40.51639pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<29.png, id=675, 403.5075pt x 167.62625pt>
+File: 29.png Graphic file (type png)
+ <use 29.png>
+Package pdftex.def Info: 29.png used on input line 258.
+(pdftex.def)             Requested size: 359.12054pt x 149.18687pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<30.png, id=676, 528.97626pt x 127.47626pt>
+File: 30.png Graphic file (type png)
+ <use 30.png>
+Package pdftex.def Info: 30.png used on input line 265.
+(pdftex.def)             Requested size: 470.78738pt x 113.45349pt.
+
+Overfull \hbox (37.16739pt too wide) in paragraph at lines 265--266
  [] 
  []
 
-) [46 <C:/Users/Hitesh Piprotar/Desktop/Report/20.jpg>]
-("C:\Users\Hitesh Piprotar\Desktop\Report\ch4.tex"
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<31.png, id=677, 403.5075pt x 113.42375pt>
+File: 31.png Graphic file (type png)
+ <use 31.png>
+Package pdftex.def Info: 31.png used on input line 271.
+(pdftex.def)             Requested size: 359.12054pt x 100.94681pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [41 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/18.png> <C:/Users/Arp
+an Chavda/Documents/GitHub/docs/Report/19.png>] [42 <C:/Users/Arpan Chavda/Docu
+ments/GitHub/docs/Report/20.png> <C:/Users/Arpan Chavda/Documents/GitHub/docs/R
+eport/21.png> <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/22.png>]
+[43 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/23.png> <C:/Users/Arpan
+ Chavda/Documents/GitHub/docs/Report/24.png>] [44 <C:/Users/Arpan Chavda/Docume
+nts/GitHub/docs/Report/25.png>] [45 <C:/Users/Arpan Chavda/Documents/GitHub/doc
+s/Report/26.png>] [46 <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/27.pn
+g> <C:/Users/Arpan Chavda/Documents/GitHub/docs/Report/28.png> <C:/Users/Arpan 
+Chavda/Documents/GitHub/docs/Report/29.png>] [47 <C:/Users/Arpan Chavda/Documen
+ts/GitHub/docs/Report/30.png> <C:/Users/Arpan Chavda/Documents/GitHub/docs/Repo
+rt/31.png>] ("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\ch4.tex"
 Chapter 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
@@ -905,28 +916,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
  []
 
 
-Underfull \hbox (badness 7759) in paragraph at lines 9--9
-[]\OT1/cmr/m/n/12 Successfully ren-der Geo-
+Underfull \hbox (badness 1776) in paragraph at lines 7--7
+[]\OT1/cmr/m/n/12 It shoud boot and work
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
-[]\OT1/cmr/m/n/12 Load non-georeferenced
+Underfull \hbox (badness 1776) in paragraph at lines 9--9
+[]\OT1/cmr/m/n/12 It should boot and load
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 11--11
-[]\OT1/cmr/m/n/12 Nothing is dis-played in
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\OT1/cmr/m/n/12 OpenGujarat build with
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 13--13
-\OT1/cmr/m/n/12 Map with dif-fer-ent color
+Underfull \hbox (badness 5548) in paragraph at lines 15--15
+[]\OT1/cmr/m/n/12 It should con-vert doc-u-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]\OT1/cmr/m/n/12 Query per-form on At-
+Underfull \hbox (badness 3250) in paragraph at lines 19--19
+[]\OT1/cmr/m/n/12 It should dis-play proper
  []
 
 
@@ -934,7 +945,7 @@ Overfull \hbox (21.79599pt too wide) in paragraph at lines 3--22
 [][] 
  []
 
-[47
+[48
 
 
 
@@ -949,106 +960,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
  []
 
 
-Overfull \hbox (21.79599pt too wide) in paragraph at lines 25--38
+Overfull \hbox (21.79599pt too wide) in paragraph at lines 25--34
 [][] 
  []
 
-[48]
+[49]
 Chapter 7.
-[49
+[50
 
 ]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [50]
 Chapter 8.
-
-Underfull \vbox (badness 1342) has occurred while \output is active []
-
- [51
+[51
 
 ]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-
-<codedistribution.jpg, id=586, 459.21562pt x 236.38312pt>
-File: codedistribution.jpg Graphic file (type jpg)
-
-<use codedistribution.jpg>
-Package pdftex.def Info: codedistribution.jpg used on input line 94.
-(pdftex.def)             Requested size: 413.29024pt x 212.74283pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-[52]
-Underfull \vbox (badness 5388) has occurred while \output is active []
-
- [53 <C:/Users/Hitesh Piprotar/Desktop/Report/codedistribution.jpg>] [54] [55] 
-[56]
+Missing character: There is no í in font cmr12!
+ [52] [53]
 Chapter 9.
-) [57
+) [54
 
-] [58]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
- [59
+] [55]
+Overfull \hbox (24.80026pt too wide) in paragraph at lines 85--86
+[]\OT1/cmr/m/n/12 Ubuntu Min-i-mal Disk(https://help.ubuntu.com/community/Insta
+llation/MinimalCD) 
+ []
+
+
+Overfull \hbox (64.29996pt too wide) in paragraph at lines 88--89
+[]\OT1/cmr/m/n/12 Ubuntu Live CD Cus-tomiza-tion(https://help.ubuntu.com/commun
+ity/LiveCDCustomization) 
+ []
+
+
+Overfull \hbox (1.34227pt too wide) in paragraph at lines 94--95
+[]\OT1/cmr/m/n/12 GNU Get-text util-ity (http://www.gnu.org/software/gettext/ma
+nual/gettext.html
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+[56
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
- ("C:\Users\Hitesh Piprotar\Desktop\Report\main.aux"
-("C:\Users\Hitesh Piprotar\Desktop\Report\Introduction.aux")
-("C:\Users\Hitesh Piprotar\Desktop\Report\Usecase.aux")
-("C:\Users\Hitesh Piprotar\Desktop\Report\classdiagrams.aux")
-("C:\Users\Hitesh Piprotar\Desktop\Report\usermanual.aux")
-("C:\Users\Hitesh Piprotar\Desktop\Report\ch4.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
+ ("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\main.aux"
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\Introduction.aux")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\Usecase.aux")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\usermanual.aux")
+("C:\Users\Arpan Chavda\Documents\GitHub\docs\Report\ch4.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AAB849ED1BE49ABD892DADDC4CE74815;2968.
+(rerunfilecheck)             Checksum: 17715E1E32523AA93737D1616B26575F;3418.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5924 strings out of 494045
- 84790 string characters out of 3148357
- 170173 words of memory out of 3000000
- 8894 multiletter control sequences out of 15000+200000
+ 5977 strings out of 494045
+ 86054 string characters out of 3148367
+ 163886 words of memory out of 3000000
+ 8931 multiletter control sequences out of 15000+200000
  11367 words of font info for 42 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 29i,9n,30p,823b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,9n,30p,732b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (76 pages, 5622363 bytes).
+Output written on main.pdf (75 pages, 9003065 bytes).
 PDF statistics:
- 701 PDF objects out of 1000 (max. 8388607)
- 205 named destinations out of 1000 (max. 500000)
- 562 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 819 PDF objects out of 1000 (max. 8388607)
+ 206 named destinations out of 1000 (max. 500000)
+ 640 words of extra memory for PDF output out of 10000 (max. 10000000)
 

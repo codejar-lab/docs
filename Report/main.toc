@@ -3,8 +3,8 @@
 \contentsline {chapter}{About the company}{v}{Doc-Start}
 \contentsline {chapter}{Acknowledgements}{xiv}{figure.0.4}
 \contentsline {chapter}{Abstract}{xv}{figure.0.4}
-\contentsline {chapter}{List of Tables}{xvii}{chapter*.1}
-\contentsline {chapter}{List of Figures}{xvii}{chapter*.2}
+\contentsline {chapter}{List of Tables}{xviii}{chapter*.1}
+\contentsline {chapter}{List of Figures}{xviii}{chapter*.2}
 \contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}The System}{2}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Definition of System}{2}{subsection.1.1.1}
@@ -34,35 +34,31 @@
 \contentsline {subsubsection}{Questionnaire}{16}{section*.7}
 \contentsline {subsubsection}{Record Review}{16}{section*.8}
 \contentsline {subsubsection}{Observation}{17}{section*.9}
-\contentsline {subsection}{\numberline {2.2.2}Data Flow Diagrams}{17}{subsection.2.2.2}
-\contentsline {chapter}{\numberline {3}Use Case Diagram}{19}{chapter.3}
-\contentsline {chapter}{\numberline {4}Class Diagram and CRC card}{24}{chapter.4}
-\contentsline {section}{\numberline {4.1}Class Diagram}{24}{section.4.1}
-\contentsline {section}{\numberline {4.2}CRC Index Card}{25}{section.4.2}
-\contentsline {chapter}{\numberline {5}User Manuals}{27}{chapter.5}
-\contentsline {chapter}{\numberline {6}Testing}{47}{chapter.6}
-\contentsline {chapter}{\numberline {7}Future Enhancement}{49}{chapter.7}
+\contentsline {chapter}{\numberline {3}System Diagram}{18}{chapter.3}
+\contentsline {chapter}{\numberline {4}Application Development}{20}{chapter.4}
+\contentsline {section}{\numberline {4.1}UTILITIES}{20}{section.4.1}
+\contentsline {section}{\numberline {4.2}Gujarati Dictionary}{21}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Purpose}{21}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Current Alternative Application}{21}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Porting System}{21}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Component of Dictionary Development}{21}{subsection.4.2.4}
+\contentsline {subsubsection}{Dictionary Front End}{21}{section*.10}
+\contentsline {subsection}{\numberline {4.2.5}Dictionary back end}{22}{subsection.4.2.5}
+\contentsline {chapter}{\numberline {5}User Manuals}{24}{chapter.5}
+\contentsline {chapter}{\numberline {6}Testing}{48}{chapter.6}
+\contentsline {chapter}{\numberline {7}Future Enhancement}{50}{chapter.7}
 \contentsline {chapter}{\numberline {8}Appendix}{51}{chapter.8}
 \contentsline {section}{\numberline {8.1}Technology Used}{51}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}GeoTools}{51}{subsection.8.1.1}
-\contentsline {subsubsection}{Introduction}{51}{section*.10}
-\contentsline {subsubsection}{Open Source}{52}{section*.11}
-\contentsline {subsubsection}{Open Development}{52}{section*.12}
-\contentsline {subsubsection}{Code Distribution}{52}{section*.13}
-\contentsline {section}{\numberline {8.2}Tools Used}{54}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Netbeans 7.0.1}{54}{subsection.8.2.1}
-\contentsline {subsubsection}{JDK 7}{54}{section*.14}
-\contentsline {subsubsection}{WebLogic Server}{54}{section*.15}
-\contentsline {subsubsection}{Oracle Database}{54}{section*.16}
-\contentsline {subsubsection}{GlassFish}{55}{section*.17}
-\contentsline {subsubsection}{Java}{55}{section*.18}
-\contentsline {subsubsection}{Java EE}{55}{section*.19}
-\contentsline {subsubsection}{Web Languages}{55}{section*.20}
-\contentsline {subsubsection}{PHP}{56}{section*.21}
-\contentsline {subsubsection}{C/C++}{56}{section*.22}
-\contentsline {subsubsection}{NetBeans Platform}{56}{section*.23}
-\contentsline {subsubsection}{General}{56}{section*.24}
-\contentsline {chapter}{\numberline {9}Summary and Conclusion}{57}{chapter.9}
-\contentsline {section}{\numberline {9.1}Summary}{57}{section.9.1}
-\contentsline {section}{\numberline {9.2}Conclusion}{57}{section.9.2}
-\contentsline {chapter}{Bibliography}{59}{section.9.2}
+\contentsline {subsection}{\numberline {8.1.1}Ubuntu Minimal}{51}{subsection.8.1.1}
+\contentsline {subsubsection}{Introduction}{51}{section*.11}
+\contentsline {subsubsection}{Free and Open Source}{51}{section*.12}
+\contentsline {subsubsection}{Open Development}{52}{section*.13}
+\contentsline {section}{\numberline {8.2}Tools Used}{52}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Build essential package}{52}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}chroot environment}{52}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}UCK}{53}{subsection.8.2.3}
+\contentsline {subsubsection}{Zenity and YAD framework}{53}{section*.14}
+\contentsline {chapter}{\numberline {9}Summary and Conclusion}{54}{chapter.9}
+\contentsline {section}{\numberline {9.1}Summary}{54}{section.9.1}
+\contentsline {section}{\numberline {9.2}Conclusion}{54}{section.9.2}
+\contentsline {chapter}{Bibliography}{56}{section.9.2}

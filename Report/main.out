@@ -28,20 +28,26 @@
 \BOOKMARK [2][-]{subsection.2.1.6}{Time feasibility}{section.2.1}% 28
 \BOOKMARK [1][-]{section.2.2}{Requirement Analysis}{chapter.2}% 29
 \BOOKMARK [2][-]{subsection.2.2.1}{Facts finding techniques}{section.2.2}% 30
-\BOOKMARK [2][-]{subsection.2.2.2}{Data Flow Diagrams}{section.2.2}% 31
-\BOOKMARK [0][-]{chapter.3}{Use Case Diagram}{}% 32
-\BOOKMARK [0][-]{chapter.4}{Class Diagram and CRC card}{}% 33
-\BOOKMARK [1][-]{section.4.1}{Class Diagram}{chapter.4}% 34
-\BOOKMARK [1][-]{section.4.2}{CRC Index Card}{chapter.4}% 35
-\BOOKMARK [0][-]{chapter.5}{User Manuals}{}% 36
-\BOOKMARK [0][-]{chapter.6}{Testing}{}% 37
-\BOOKMARK [0][-]{chapter.7}{Future Enhancement}{}% 38
-\BOOKMARK [0][-]{chapter.8}{Appendix}{}% 39
-\BOOKMARK [1][-]{section.8.1}{Technology Used}{chapter.8}% 40
-\BOOKMARK [2][-]{subsection.8.1.1}{GeoTools}{section.8.1}% 41
-\BOOKMARK [1][-]{section.8.2}{Tools Used}{chapter.8}% 42
-\BOOKMARK [2][-]{subsection.8.2.1}{Netbeans 7.0.1}{section.8.2}% 43
-\BOOKMARK [0][-]{chapter.9}{Summary and Conclusion}{}% 44
-\BOOKMARK [1][-]{section.9.1}{Summary}{chapter.9}% 45
-\BOOKMARK [1][-]{section.9.2}{Conclusion}{chapter.9}% 46
-\BOOKMARK [0][-]{section.9.2}{Bibliography}{}% 47
+\BOOKMARK [0][-]{chapter.3}{System Diagram}{}% 31
+\BOOKMARK [0][-]{chapter.4}{Application Development}{}% 32
+\BOOKMARK [1][-]{section.4.1}{UTILITIES}{chapter.4}% 33
+\BOOKMARK [1][-]{section.4.2}{Gujarati Dictionary}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.2.1}{Purpose}{section.4.2}% 35
+\BOOKMARK [2][-]{subsection.4.2.2}{Current Alternative Application}{section.4.2}% 36
+\BOOKMARK [2][-]{subsection.4.2.3}{Porting System}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.4}{Component of Dictionary Development}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.5}{Dictionary back end}{section.4.2}% 39
+\BOOKMARK [0][-]{chapter.5}{User Manuals}{}% 40
+\BOOKMARK [0][-]{chapter.6}{Testing}{}% 41
+\BOOKMARK [0][-]{chapter.7}{Future Enhancement}{}% 42
+\BOOKMARK [0][-]{chapter.8}{Appendix}{}% 43
+\BOOKMARK [1][-]{section.8.1}{Technology Used}{chapter.8}% 44
+\BOOKMARK [2][-]{subsection.8.1.1}{Ubuntu Minimal}{section.8.1}% 45
+\BOOKMARK [1][-]{section.8.2}{Tools Used}{chapter.8}% 46
+\BOOKMARK [2][-]{subsection.8.2.1}{Build essential package}{section.8.2}% 47
+\BOOKMARK [2][-]{subsection.8.2.2}{chroot environment}{section.8.2}% 48
+\BOOKMARK [2][-]{subsection.8.2.3}{UCK}{section.8.2}% 49
+\BOOKMARK [0][-]{chapter.9}{Summary and Conclusion}{}% 50
+\BOOKMARK [1][-]{section.9.1}{Summary}{chapter.9}% 51
+\BOOKMARK [1][-]{section.9.2}{Conclusion}{chapter.9}% 52
+\BOOKMARK [0][-]{section.9.2}{Bibliography}{}% 53
