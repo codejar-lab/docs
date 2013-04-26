@@ -73,11 +73,11 @@ By making public repository of our both operating system, We are inviting other 
 \subsection{Build essential package}
 Build essential pakage contains following dependencies.
 \begin{itemize}
-\item dpkg-dev (Version 1.13.5)\\
+\item dpkg-dev (>= 1.13.5)\\
 package building tools for Debian
-\item g++ (Version 4.1.1)\\
+\item g++ (>= 4:4.1.1)\\
 The GNU C++ compiler
-\item gcc (Version 4.1.1)\\
+\item gcc (>= 4:4.1.1)\\
 The GNU C compiler
 \item libc6-dev \\
 GNU C Library: Development Libraries and Header Files\\

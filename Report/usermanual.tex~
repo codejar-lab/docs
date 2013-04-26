@@ -75,7 +75,7 @@ Description: Above feature is useful to plan a task or month using calendar on E
 \begin{figure}[h]
 \begin{center}
   % Requires \usepackage{graphicx}
-  \includegraphics[scale=0.33] {8.png}
+  \includegraphics[scale=0.35] {8.png}
   \caption[Screenshot - Quick Preview]{Quick Preview support}
 \end{center}
 \end{figure}
